@@ -23,7 +23,9 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "human pose": 
-        filters: ["human pose", "3D"]
+        filters: ["human pose estimation", "3D"]
     "human pose": 
-        filters: ["human pose", "2D"]
+        filters: ["human pose estimation", "2D"]
+    "human pose": 
+        filters: ["human pose estimation", "refinement"]
 
