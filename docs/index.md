@@ -4150,11 +4150,19 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-21**|**Towards Affordance-Aware Articulation Synthesis for Rigged Objects**|Yu-Chu Yu et.al.|[2501.12393](http://arxiv.org/abs/2501.12393)|null|
 |**2025-01-21**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
+|**2025-01-21**|**DiffDoctor: Diagnosing Image Diffusion Models Before Treating**|Yiyang Wang et.al.|[2501.12382](http://arxiv.org/abs/2501.12382)|null|
 |**2025-01-21**|**Parallel Sequence Modeling via Generalized Spatial Propagation Network**|Hongjun Wang et.al.|[2501.12381](http://arxiv.org/abs/2501.12381)|null|
 |**2025-01-21**|**DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions**|Vishagar Arunan et.al.|[2501.12369](http://arxiv.org/abs/2501.12369)|null|
 |**2025-01-21**|**Lattice defect networks in 2d Yang-Mills**|Luca Griguolo et.al.|[2501.12351](http://arxiv.org/abs/2501.12351)|null|
+|**2025-01-21**|**FuocChuVIP123 at CoMeDi Shared Task: Disagreement Ranking with XLM-Roberta Sentence Embeddings and Deep Neural Regression**|Phuoc Duong Huy Chu et.al.|[2501.12336](http://arxiv.org/abs/2501.12336)|null|
+|**2025-01-21**|**UI-TARS: Pioneering Automated GUI Interaction with Native Agents**|Yujia Qin et.al.|[2501.12326](http://arxiv.org/abs/2501.12326)|null|
 |**2025-01-21**|**BlanketGen2-Fit3D: Synthetic Blanket Augmentation Towards Improving Real-World In-Bed Blanket Occluded Human Pose Estimation**|Tamás Karácsony et.al.|[2501.12318](http://arxiv.org/abs/2501.12318)|null|
+|**2025-01-21**|**Charge-density-wave quantum critical point under pressure in 2 $H$-TaSe$_2$**|Yuliia Tymoshenko et.al.|[2501.12315](http://arxiv.org/abs/2501.12315)|null|
 |**2025-01-21**|**Complexity of Jelly-No and Hanano games with various constraints**|Owen Crabtree et.al.|[2501.12282](http://arxiv.org/abs/2501.12282)|null|
+|**2025-01-21**|**Condor: Enhance LLM Alignment with Knowledge-Driven Data Synthesis and Refinement**|Maosong Cao et.al.|[2501.12273](http://arxiv.org/abs/2501.12273)|null|
+|**2025-01-21**|**Zero-shot Bias Correction: Efficient MR Image Inhomogeneity Reduction Without Any Data**|Hongxu Yang et.al.|[2501.12244](http://arxiv.org/abs/2501.12244)|null|
+|**2025-01-21**|**Exploring Temporally-Aware Features for Point Tracking**|Inès Hyeonsu Kim et.al.|[2501.12218](http://arxiv.org/abs/2501.12218)|null|
+|**2025-01-21**|**Less is More: Information Bottleneck Denoised Multimedia Recommendation**|Yonghui Yang et.al.|[2501.12175](http://arxiv.org/abs/2501.12175)|null|
 |**2025-01-21**|**A quadratic BSDE approach to normalization for the finite volume 2D sine-Gordon model in the finite ultraviolet regime**|Shanjian Tang et.al.|[2501.12172](http://arxiv.org/abs/2501.12172)|null|
 |**2025-01-21**|**Evaluating many-body stabilizer Rényi entropy by sampling reduced Pauli strings: singularities, volume law, and nonlocal magic**|Yi-Ming Ding et.al.|[2501.12146](http://arxiv.org/abs/2501.12146)|null|
 |**2025-01-21**|**GaussianVideo: Efficient Video Representation Through 2D Gaussian Splatting**|Longan Wang et.al.|[2501.12060](http://arxiv.org/abs/2501.12060)|null|
