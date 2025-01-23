@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.22
+## Updated on 2025.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4155,7 +4155,7 @@ layout: default
 |**2025-01-21**|**DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions**|Vishagar Arunan et.al.|[2501.12369](http://arxiv.org/abs/2501.12369)|null|
 |**2025-01-21**|**Lattice defect networks in 2d Yang-Mills**|Luca Griguolo et.al.|[2501.12351](http://arxiv.org/abs/2501.12351)|null|
 |**2025-01-21**|**FuocChuVIP123 at CoMeDi Shared Task: Disagreement Ranking with XLM-Roberta Sentence Embeddings and Deep Neural Regression**|Phuoc Duong Huy Chu et.al.|[2501.12336](http://arxiv.org/abs/2501.12336)|null|
-|**2025-01-21**|**UI-TARS: Pioneering Automated GUI Interaction with Native Agents**|Yujia Qin et.al.|[2501.12326](http://arxiv.org/abs/2501.12326)|null|
+|**2025-01-21**|**UI-TARS: Pioneering Automated GUI Interaction with Native Agents**|Yujia Qin et.al.|[2501.12326](http://arxiv.org/abs/2501.12326)|**[link](https://github.com/bytedance/ui-tars)**|
 |**2025-01-21**|**BlanketGen2-Fit3D: Synthetic Blanket Augmentation Towards Improving Real-World In-Bed Blanket Occluded Human Pose Estimation**|Tamás Karácsony et.al.|[2501.12318](http://arxiv.org/abs/2501.12318)|null|
 |**2025-01-21**|**Charge-density-wave quantum critical point under pressure in 2 $H$-TaSe$_2$**|Yuliia Tymoshenko et.al.|[2501.12315](http://arxiv.org/abs/2501.12315)|null|
 |**2025-01-21**|**Complexity of Jelly-No and Hanano games with various constraints**|Owen Crabtree et.al.|[2501.12282](http://arxiv.org/abs/2501.12282)|null|
