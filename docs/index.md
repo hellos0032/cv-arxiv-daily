@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.23
+## Updated on 2025.01.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Improving Video Generation with Human Feedback**|Jie Liu et.al.|[2501.13918](http://arxiv.org/abs/2501.13918)|null|
+|**2025-01-23**|**Graphs with no long claws: An improved bound for the analog of the Gyárfás' path argument**|Romain Bourneuf et.al.|[2501.13907](http://arxiv.org/abs/2501.13907)|null|
+|**2025-01-23**|**Uniform set systems with small VC-dimension**|Ting-Wei Chao et.al.|[2501.13850](http://arxiv.org/abs/2501.13850)|null|
+|**2025-01-23**|**Redshift leverage for the search of GRB neutrinos affected by quantum properties of spacetime**|Giovanni Amelino-Camelia et.al.|[2501.13840](http://arxiv.org/abs/2501.13840)|null|
+|**2025-01-23**|**An Efficient Diffusion-based Non-Autoregressive Solver for Traveling Salesman Problem**|Mingzhao Wang et.al.|[2501.13767](http://arxiv.org/abs/2501.13767)|**[link](https://github.com/deitsp/deitsp)**|
+|**2025-01-23**|**Learning in Conjectural Stackelberg Games**|Francesco Morri et.al.|[2501.13686](http://arxiv.org/abs/2501.13686)|null|
+|**2025-01-23**|**Evolvable Soma Theory of Ageing: Insights from Computer Simulations**|Alessandro Fontana et.al.|[2501.13657](http://arxiv.org/abs/2501.13657)|null|
+|**2025-01-23**|**One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt**|Tao Liu et.al.|[2501.13554](http://arxiv.org/abs/2501.13554)|**[link](https://github.com/byliutao/1prompt1story)**|
+|**2025-01-23**|**ReasVQA: Advancing VideoQA with Imperfect Reasoning Process**|Jianxin Liang et.al.|[2501.13536](http://arxiv.org/abs/2501.13536)|null|
+|**2025-01-23**|**A discrete adjoint method for deterministic and probabilistic eikonal-equation-based inversion of traveltime for velocity and source location**|Andrea Zunino et.al.|[2501.13532](http://arxiv.org/abs/2501.13532)|null|
 |**2025-01-21**|**Towards Affordance-Aware Articulation Synthesis for Rigged Objects**|Yu-Chu Yu et.al.|[2501.12393](http://arxiv.org/abs/2501.12393)|null|
 |**2025-01-21**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
 |**2025-01-21**|**DiffDoctor: Diagnosing Image Diffusion Models Before Treating**|Yiyang Wang et.al.|[2501.12382](http://arxiv.org/abs/2501.12382)|null|
