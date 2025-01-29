@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.27
+## Updated on 2025.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Synthesis, crystal structure, site occupancy and magnetic properties of aluminum substituted M-type Sr hexaferrite SrFe12-xAlxO19 nanoparticles**|Matilde Saura-Múzquiz et.al.|[2501.16264](http://arxiv.org/abs/2501.16264)|null|
+|**2025-01-27**|**Spectral multipliers on two-step stratified Lie groups with degenerate group structure**|Lars Niedorf et.al.|[2501.16262](http://arxiv.org/abs/2501.16262)|null|
+|**2025-01-27**|**Nodal AMG Coarsening and Interpolation for PDE Systems**|James Brannick et.al.|[2501.16248](http://arxiv.org/abs/2501.16248)|null|
+|**2025-01-27**|**The Effect of Optimal Self-Distillation in Noisy Gaussian Mixture Model**|Kaito Takanami et.al.|[2501.16226](http://arxiv.org/abs/2501.16226)|null|
+|**2025-01-27**|**SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP**|Li Pang et.al.|[2501.16222](http://arxiv.org/abs/2501.16222)|**[link](https://github.com/lipang/special)**|
+|**2025-01-27**|**Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**|Antony Bartlett et.al.|[2501.16191](http://arxiv.org/abs/2501.16191)|null|
+|**2025-01-27**|**$\bar{b}\bar{b}ud$ Tetraquarks with $I(J^P)=0(1^-)$ and $\bar{b}\bar{c}ud$ Tetraquarks with $I(J^P)=0(0^+)$ and $I(J^P)=0(1^+)$ from Lattice QCD Antistatic-Antistatic Potentials**|Jakob Hoffmann et.al.|[2501.16188](http://arxiv.org/abs/2501.16188)|null|
+|**2025-01-27**|**A refinement of the Sylvester problem: Probabilities of combinatorial types**|Zakhar Kabluchko et.al.|[2501.16166](http://arxiv.org/abs/2501.16166)|null|
+|**2025-01-27**|**Efficient Portrait Matte Creation With Layer Diffusion and Connectivity Priors**|Zhiyuan Lu et.al.|[2501.16147](http://arxiv.org/abs/2501.16147)|null|
+|**2025-01-27**|**Toward Efficient Generalization in 3D Human Pose Estimation via a Canonical Domain Approach**|Hoosang Lee et.al.|[2501.16146](http://arxiv.org/abs/2501.16146)|null|
 |**2025-01-23**|**Improving Video Generation with Human Feedback**|Jie Liu et.al.|[2501.13918](http://arxiv.org/abs/2501.13918)|null|
 |**2025-01-23**|**Graphs with no long claws: An improved bound for the analog of the Gyárfás' path argument**|Romain Bourneuf et.al.|[2501.13907](http://arxiv.org/abs/2501.13907)|null|
 |**2025-01-23**|**Uniform set systems with small VC-dimension**|Ting-Wei Chao et.al.|[2501.13850](http://arxiv.org/abs/2501.13850)|null|
