@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.29
+## Updated on 2025.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**Optimizing Superconducting Qubit Performance: A Theoretical Framework for Design, Analysis, and Calibration**|Sirshi S Ram et.al.|[2501.17825](http://arxiv.org/abs/2501.17825)|null|
+|**2025-01-29**|**Yin-Yang: Developing Motifs With Long-Term Structure And Controllability**|Keshav Bhandari et.al.|[2501.17759](http://arxiv.org/abs/2501.17759)|**[link](https://github.com/keshavbhandari/yinyang)**|
+|**2025-01-29**|**NutMaat: A Python package for stellar spectral classification on the MK system**|R. I. El-Kholy et.al.|[2501.17698](http://arxiv.org/abs/2501.17698)|null|
+|**2025-01-29**|**ContourFormer:Real-Time Contour-Based End-to-End Instance Segmentation Transformer**|Weiwei yao et.al.|[2501.17688](http://arxiv.org/abs/2501.17688)|null|
+|**2025-01-29**|**Topological Signatures of the Optical Bound on Maximal Berry Curvature: Applications to Two-Dimensional Time-Reversal-Symmetric Insulators**|Pok Man Chiu et.al.|[2501.17671](http://arxiv.org/abs/2501.17671)|null|
+|**2025-01-29**|**A refined functorial universal tangle invariant**|Jorge Becerra et.al.|[2501.17668](http://arxiv.org/abs/2501.17668)|null|
+|**2025-01-29**|**Efficient Interactive 3D Multi-Object Removal**|Jingcheng Ni et.al.|[2501.17636](http://arxiv.org/abs/2501.17636)|null|
+|**2025-01-29**|**Music2Latent2: Audio Compression with Summary Embeddings and Autoregressive Decoding**|Marco Pasini et.al.|[2501.17578](http://arxiv.org/abs/2501.17578)|null|
+|**2025-01-29**|**Closing the Gap Between Synthetic and Ground Truth Time Series Distributions via Neural Mapping**|Daesoo Lee et.al.|[2501.17553](http://arxiv.org/abs/2501.17553)|**[link](https://github.com/ml4its/timevqvae)**|
+|**2025-01-29**|**Action Recognition Using Temporal Shift Module and Ensemble Learning**|Anh-Kiet Duong et.al.|[2501.17550](http://arxiv.org/abs/2501.17550)|**[link](https://github.com/ffyyytt/tsm-mmvpr)**|
 |**2025-01-27**|**Synthesis, crystal structure, site occupancy and magnetic properties of aluminum substituted M-type Sr hexaferrite SrFe12-xAlxO19 nanoparticles**|Matilde Saura-Múzquiz et.al.|[2501.16264](http://arxiv.org/abs/2501.16264)|null|
 |**2025-01-27**|**Spectral multipliers on two-step stratified Lie groups with degenerate group structure**|Lars Niedorf et.al.|[2501.16262](http://arxiv.org/abs/2501.16262)|null|
 |**2025-01-27**|**Nodal AMG Coarsening and Interpolation for PDE Systems**|James Brannick et.al.|[2501.16248](http://arxiv.org/abs/2501.16248)|null|
