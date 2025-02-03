@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.01
+## Updated on 2025.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,7 +4148,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-30**|**ROSA: Reconstructing Object Shape and Appearance Textures by Adaptive Detail Transfer**|Julian Kaltheuner et.al.|[2501.18595](http://arxiv.org/abs/2501.18595)|**[link](https://github.com/vc-bonn/rosa)**|
+|**2025-01-30**|**ROSA: Reconstructing Object Shape and Appearance Textures by Adaptive Detail Transfer**|Julian Kaltheuner et.al.|[2501.18595](http://arxiv.org/abs/2501.18595)|null|
 |**2025-01-30**|**Nonlinear SPDEs and Maximal Regularity: An Extended Survey**|Antonio Agresti et.al.|[2501.18561](http://arxiv.org/abs/2501.18561)|null|
 |**2025-01-30**|**Reactor antineutrinos CE $ν$ NS on germanium: CONUS+ and TEXONO as a new gateway to SM and BSM physics**|M. Atzori Corona et.al.|[2501.18550](http://arxiv.org/abs/2501.18550)|null|
 |**2025-01-30**|**WILDCHAT-50M: A Deep Dive Into the Role of Synthetic Data in Post-Training**|Benjamin Feuer et.al.|[2501.18511](http://arxiv.org/abs/2501.18511)|**[link](https://github.com/penfever/wildchat-50m)**|
