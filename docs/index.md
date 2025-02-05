@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.03
+## Updated on 2025.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Towards Adaptive Self-Improvement for Smarter Energy Systems**|Alexander Sommer et.al.|[2501.19340](http://arxiv.org/abs/2501.19340)|null|
+|**2025-01-31**|**MINDSTORES: Memory-Informed Neural Decision Synthesis for Task-Oriented Reinforcement in Embodied Systems**|Anirudh Chari et.al.|[2501.19318](http://arxiv.org/abs/2501.19318)|null|
+|**2025-01-31**|**Statistical Physics of Deep Neural Networks: Generalization Capability, Beyond the Infinite Width, and Feature Learning**|Sebastiano Ariosto et.al.|[2501.19281](http://arxiv.org/abs/2501.19281)|null|
+|**2025-01-31**|**A MacMahon Analysis View of Cylindric Partitions**|Runqiao Li et.al.|[2501.19272](http://arxiv.org/abs/2501.19272)|null|
+|**2025-01-31**|**Integrating Semi-Supervised and Active Learning for Semantic Segmentation**|Wanli Ma et.al.|[2501.19227](http://arxiv.org/abs/2501.19227)|null|
+|**2025-01-31**|**On the Computation of the Efficient Frontier in Advanced Portfolio Optimization**|Arturo Annunziata et.al.|[2501.19199](http://arxiv.org/abs/2501.19199)|null|
+|**2025-01-31**|**Rethinking Early Stopping: Refine, Then Calibrate**|Eugène Berta et.al.|[2501.19195](http://arxiv.org/abs/2501.19195)|**[link](https://github.com/eugeneberta/refinethencalibrate-theory)**|
+|**2025-01-31**|**RMDM: Radio Map Diffusion Model with Physics Informed**|Haozhe Jia et.al.|[2501.19160](http://arxiv.org/abs/2501.19160)|null|
+|**2025-01-31**|**A Metric for the Balance of Information in Graph Learning**|Alex O. Davies et.al.|[2501.19137](http://arxiv.org/abs/2501.19137)|null|
+|**2025-01-31**|**Visual Autoregressive Modeling for Image Super-Resolution**|Yunpeng Qu et.al.|[2501.18993](http://arxiv.org/abs/2501.18993)|null|
 |**2025-01-30**|**ROSA: Reconstructing Object Shape and Appearance Textures by Adaptive Detail Transfer**|Julian Kaltheuner et.al.|[2501.18595](http://arxiv.org/abs/2501.18595)|null|
 |**2025-01-30**|**Nonlinear SPDEs and Maximal Regularity: An Extended Survey**|Antonio Agresti et.al.|[2501.18561](http://arxiv.org/abs/2501.18561)|null|
 |**2025-01-30**|**Reactor antineutrinos CE $ν$ NS on germanium: CONUS+ and TEXONO as a new gateway to SM and BSM physics**|M. Atzori Corona et.al.|[2501.18550](http://arxiv.org/abs/2501.18550)|null|
