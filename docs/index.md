@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.07
+## Updated on 2025.02.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Site-engineered ferromagnetism in Ca and Cr co-substituted Bismuth Ferrite Nanoparticles**|Mehedi Hasan Prince et.al.|[2502.04305](http://arxiv.org/abs/2502.04305)|null|
+|**2025-02-06**|**Beyond Prompt Content: Enhancing LLM Performance via Content-Format Integrated Prompt Optimization**|Yuanye Liu et.al.|[2502.04295](http://arxiv.org/abs/2502.04295)|null|
+|**2025-02-06**|**Counterexamples for Türkelli's Modification on Malle's Conjecture**|Jiuya Wang et.al.|[2502.04261](http://arxiv.org/abs/2502.04261)|null|
+|**2025-02-06**|**Ideal quantum metrics from fractional Laplacians**|Dimitris Michail Gerontogiannis et.al.|[2502.04187](http://arxiv.org/abs/2502.04187)|null|
+|**2025-02-06**|**The $E$ -base of finite semidistributive lattices**|Kira Adaricheva et.al.|[2502.04146](http://arxiv.org/abs/2502.04146)|null|
+|**2025-02-06**|**Sensitivity of three-dimensional boundary-layer stability to intrinsic uncertainties of fluid properties: a study on supercritical CO2**|Jie Ren et.al.|[2502.04105](http://arxiv.org/abs/2502.04105)|null|
+|**2025-02-06**|**PSZ: Enhancing the SZ Scientific Lossy Compressor With Progressive Data Retrieval**|Zhuoxun Yang et.al.|[2502.04093](http://arxiv.org/abs/2502.04093)|null|
+|**2025-02-06**|**DEALing with Image Reconstruction: Deep Attentive Least Squares**|Mehrsa Pourya et.al.|[2502.04079](http://arxiv.org/abs/2502.04079)|null|
+|**2025-02-06**|**Strategic Learning with Local Explanations as Feedback**|Kiet Q. H. Vo et.al.|[2502.04058](http://arxiv.org/abs/2502.04058)|null|
+|**2025-02-06**|**"It Warned Me Just at the Right Moment": Exploring LLM-based Real-time Detection of Phone Scams**|Zitong Shen et.al.|[2502.03964](http://arxiv.org/abs/2502.03964)|null|
 |**2025-02-05**|**Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics**|Xuan Li et.al.|[2502.03449](http://arxiv.org/abs/2502.03449)|null|
 |**2025-02-05**|**BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving**|Ran Xin et.al.|[2502.03438](http://arxiv.org/abs/2502.03438)|null|
 |**2025-02-05**|**Harnessing Large Language Models for Curated Code Reviews**|Oussama Ben Sghaier et.al.|[2502.03425](http://arxiv.org/abs/2502.03425)|null|
