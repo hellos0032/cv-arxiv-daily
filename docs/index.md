@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.09
+## Updated on 2025.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**In-context denoising with one-layer transformers: connections between attention and associative memory retrieval**|Matthew Smart et.al.|[2502.05164](http://arxiv.org/abs/2502.05164)|null|
+|**2025-02-07**|**Refining Integration-by-Parts Reduction of Feynman Integrals with Machine Learning**|Matt von Hippel et.al.|[2502.05121](http://arxiv.org/abs/2502.05121)|null|
+|**2025-02-07**|**Presentation of finite Reedy categories as localizations of finite direct categories**|Genki Sato et.al.|[2502.05096](http://arxiv.org/abs/2502.05096)|null|
+|**2025-02-07**|**Trust-Aware Diversion for Data-Effective Distillation**|Zhuojie Wu et.al.|[2502.05027](http://arxiv.org/abs/2502.05027)|null|
+|**2025-02-07**|**The generic Markov CoHA is not spherically generated**|Ben Davison et.al.|[2502.05009](http://arxiv.org/abs/2502.05009)|null|
+|**2025-02-07**|**MoGraphGPT: Creating Interactive Scenes Using Modular LLM and Graphical Control**|Hui Ye et.al.|[2502.04983](http://arxiv.org/abs/2502.04983)|null|
+|**2025-02-07**|**The Rising Threat to Emerging AI-Powered Search Engines**|Zeren Luo et.al.|[2502.04951](http://arxiv.org/abs/2502.04951)|null|
+|**2025-02-07**|**On the Power of Heuristics in Temporal Graphs**|Filip Cornell et.al.|[2502.04910](http://arxiv.org/abs/2502.04910)|null|
+|**2025-02-07**|**The non-Abelian geometry, topology, and dynamics of a nonreciprocal Su-Schrieffer-Heeger ladder**|Ziyu Zhou et.al.|[2502.04888](http://arxiv.org/abs/2502.04888)|null|
+|**2025-02-07**|**$Φ^4_3$ Theory from many-body quantum Gibbs states**|Phan Thành Nam et.al.|[2502.04884](http://arxiv.org/abs/2502.04884)|null|
 |**2025-02-06**|**Site-engineered ferromagnetism in Ca and Cr co-substituted Bismuth Ferrite Nanoparticles**|Mehedi Hasan Prince et.al.|[2502.04305](http://arxiv.org/abs/2502.04305)|null|
 |**2025-02-06**|**Beyond Prompt Content: Enhancing LLM Performance via Content-Format Integrated Prompt Optimization**|Yuanye Liu et.al.|[2502.04295](http://arxiv.org/abs/2502.04295)|null|
 |**2025-02-06**|**Counterexamples for Türkelli's Modification on Malle's Conjecture**|Jiuya Wang et.al.|[2502.04261](http://arxiv.org/abs/2502.04261)|null|
