@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.11
+## Updated on 2025.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**Great Power Brings Great Responsibility: Personalizing Conversational AI for Diverse Problem-Solvers**|Italo Santos et.al.|[2502.07763](http://arxiv.org/abs/2502.07763)|null|
+|**2025-02-11**|**PRVQL: Progressive Knowledge-guided Refinement for Robust Egocentric Visual Query Localization**|Bing Fan et.al.|[2502.07707](http://arxiv.org/abs/2502.07707)|null|
+|**2025-02-11**|**Quantum Analog-to-Digital Converter for Phase Estimation**|Eugenio Caruccio et.al.|[2502.07676](http://arxiv.org/abs/2502.07676)|null|
+|**2025-02-11**|**SketchFlex: Facilitating Spatial-Semantic Coherence in Text-to-Image Generation with Region-Based Sketches**|Haichuan Lin et.al.|[2502.07556](http://arxiv.org/abs/2502.07556)|null|
+|**2025-02-11**|**O1 Embedder: Let Retrievers Think Before Action**|Ruin Yan et.al.|[2502.07555](http://arxiv.org/abs/2502.07555)|null|
+|**2025-02-11**|**HAIL: An Efficient Iterative Algorithm for Qubit Mapping via Layer-Weight Assignment and Search Space Reduction**|Kang Xu et.al.|[2502.07536](http://arxiv.org/abs/2502.07536)|null|
+|**2025-02-11**|**Automated Road Extraction and Centreline Fitting in LiDAR Point Clouds**|Xinyu Wang et.al.|[2502.07486](http://arxiv.org/abs/2502.07486)|null|
+|**2025-02-11**|**Effect of 3d Transition Metal Doping (Mn, Fe, Co, Ni) on the Electronic and Magnetic Properties of Pd Alloys at Low Impurity Concentrations: An Ab initio Study**|Irina I. Piyanzina et.al.|[2502.07485](http://arxiv.org/abs/2502.07485)|null|
+|**2025-02-11**|**ETimeline: An Extensive Timeline Generation Dataset based on Large Language Model**|Xiaochen Liu et.al.|[2502.07474](http://arxiv.org/abs/2502.07474)|null|
+|**2025-02-11**|**Eliciting Rational Initial Weights in Gradual Argumentation**|Nir Oren et.al.|[2502.07452](http://arxiv.org/abs/2502.07452)|null|
 |**2025-02-07**|**In-context denoising with one-layer transformers: connections between attention and associative memory retrieval**|Matthew Smart et.al.|[2502.05164](http://arxiv.org/abs/2502.05164)|null|
 |**2025-02-07**|**Refining Integration-by-Parts Reduction of Feynman Integrals with Machine Learning**|Matt von Hippel et.al.|[2502.05121](http://arxiv.org/abs/2502.05121)|null|
 |**2025-02-07**|**Presentation of finite Reedy categories as localizations of finite direct categories**|Genki Sato et.al.|[2502.05096](http://arxiv.org/abs/2502.05096)|null|
