@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.13
+## Updated on 2025.02.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**Instance Segmentation of Scene Sketches Using Natural Image Priors**|Mia Tang et.al.|[2502.09608](http://arxiv.org/abs/2502.09608)|null|
+|**2025-02-13**|**Interpolating chromatic and homomorphism thresholds**|Xinqi Huang et.al.|[2502.09576](http://arxiv.org/abs/2502.09576)|null|
+|**2025-02-13**|**Optimizing GPT for Video Understanding: Zero-Shot Performance and Prompt Engineering**|Mark Beliaev et.al.|[2502.09573](http://arxiv.org/abs/2502.09573)|null|
+|**2025-02-13**|**An Automated Bandwidth Division for the LHCb Upgrade Trigger**|T. Evans et.al.|[2502.09557](http://arxiv.org/abs/2502.09557)|null|
+|**2025-02-13**|**Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery**|Menglin Wang et.al.|[2502.09501](http://arxiv.org/abs/2502.09501)|null|
+|**2025-02-13**|**On Agnostic PAC Learning in the Small Error Regime**|Julian Asilis et.al.|[2502.09496](http://arxiv.org/abs/2502.09496)|null|
+|**2025-02-13**|**PenTest++: Elevating Ethical Hacking with AI and Automation**|Haitham S. Al-Sinani et.al.|[2502.09484](http://arxiv.org/abs/2502.09484)|null|
+|**2025-02-13**|**Metamorphic Testing for Pose Estimation Systems**|Matias Duran et.al.|[2502.09460](http://arxiv.org/abs/2502.09460)|null|
+|**2025-02-13**|**A finite element scheme for an optimal control problem on steady Navier-Stokes-Brinkman equations**|Jorge Aguayo Araneda et.al.|[2502.09336](http://arxiv.org/abs/2502.09336)|null|
+|**2025-02-13**|**NextGenPB: an analytically-enabled super resolution and local (de)refinement Poisson-Boltzmann Equation solver**|Vincenzo Di Florio et.al.|[2502.09323](http://arxiv.org/abs/2502.09323)|null|
 |**2025-02-11**|**Great Power Brings Great Responsibility: Personalizing Conversational AI for Diverse Problem-Solvers**|Italo Santos et.al.|[2502.07763](http://arxiv.org/abs/2502.07763)|null|
 |**2025-02-11**|**PRVQL: Progressive Knowledge-guided Refinement for Robust Egocentric Visual Query Localization**|Bing Fan et.al.|[2502.07707](http://arxiv.org/abs/2502.07707)|null|
 |**2025-02-11**|**Quantum Analog-to-Digital Converter for Phase Estimation**|Eugenio Caruccio et.al.|[2502.07676](http://arxiv.org/abs/2502.07676)|null|
