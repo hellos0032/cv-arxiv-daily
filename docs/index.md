@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.17
+## Updated on 2025.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Learning Getting-Up Policies for Real-World Humanoid Robots**|Xialin He et.al.|[2502.12152](http://arxiv.org/abs/2502.12152)|null|
+|**2025-02-17**|**Hypernym Bias: Unraveling Deep Classifier Training Dynamics through the Lens of Class Hierarchy**|Roman Malashin et.al.|[2502.12125](http://arxiv.org/abs/2502.12125)|null|
+|**2025-02-17**|**PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection**|Jinhe Bi et.al.|[2502.12119](http://arxiv.org/abs/2502.12119)|null|
+|**2025-02-17**|**A-MEM: Agentic Memory for LLM Agents**|Wujiang Xu et.al.|[2502.12110](http://arxiv.org/abs/2502.12110)|null|
+|**2025-02-17**|**Formalizing Complex Mathematical Statements with LLMs: A Study on Mathematical Definitions**|Lan Zhang et.al.|[2502.12065](http://arxiv.org/abs/2502.12065)|null|
+|**2025-02-17**|**Constraining first-order phase transition inside neutron stars with application of Bayesian techniques on PSR J0437-4715 NICER data**|Chun Huang et.al.|[2502.11976](http://arxiv.org/abs/2502.11976)|null|
+|**2025-02-17**|**Robust 6DoF Pose Tracking Considering Contour and Interior Correspondence Uncertainty for AR Assembly Guidance**|Jixiang Chen et.al.|[2502.11971](http://arxiv.org/abs/2502.11971)|null|
+|**2025-02-17**|**Refined PAC-Bayes Bounds for Offline Bandits**|Amaury Gouverneur et.al.|[2502.11953](http://arxiv.org/abs/2502.11953)|null|
+|**2025-02-17**|**Infinitary Refinement Types for Temporal Properties in Scott Domains**|Colin Riba et.al.|[2502.11917](http://arxiv.org/abs/2502.11917)|null|
+|**2025-02-17**|**Evaluating singular and near-singular integrals on $C^2$ smooth surfaces with a novel geometric method and closed form expressions**|Andrew Zheng et.al.|[2502.11907](http://arxiv.org/abs/2502.11907)|null|
 |**2025-02-13**|**Instance Segmentation of Scene Sketches Using Natural Image Priors**|Mia Tang et.al.|[2502.09608](http://arxiv.org/abs/2502.09608)|null|
 |**2025-02-13**|**Interpolating chromatic and homomorphism thresholds**|Xinqi Huang et.al.|[2502.09576](http://arxiv.org/abs/2502.09576)|null|
 |**2025-02-13**|**Optimizing GPT for Video Understanding: Zero-Shot Performance and Prompt Engineering**|Mark Beliaev et.al.|[2502.09573](http://arxiv.org/abs/2502.09573)|null|
