@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.19
+## Updated on 2025.02.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Continually Learning Structured Visual Representations via Network Refinement with Rerelation**|Zeki Doruk Erden et.al.|[2502.13935](http://arxiv.org/abs/2502.13935)|null|
+|**2025-02-19**|**Highly Dynamic and Flexible Spatio-Temporal Spectrum Management with AI-Driven O-RAN: A Multi-Granularity Marketplace Framework**|Mehdi Rasti et.al.|[2502.13891](http://arxiv.org/abs/2502.13891)|null|
+|**2025-02-19**|**Refining embeddings with fill-tuning: data-efficient generalised performance improvements for materials foundation models**|Matthew P. Wilson et.al.|[2502.13886](http://arxiv.org/abs/2502.13886)|null|
+|**2025-02-19**|**Evaluation of EAS directions based on TAIGA HiSCORE data using fully connected neural networks**|A. P. Kryukov et.al.|[2502.13851](http://arxiv.org/abs/2502.13851)|null|
+|**2025-02-19**|**DH-RAG: A Dynamic Historical Context-Powered Retrieval-Augmented Generation Method for Multi-Turn Dialogue**|Feiyuan Zhang et.al.|[2502.13847](http://arxiv.org/abs/2502.13847)|null|
+|**2025-02-19**|**Enhancing LLM-Based Recommendations Through Personalized Reasoning**|Jiahao Liu et.al.|[2502.13845](http://arxiv.org/abs/2502.13845)|null|
+|**2025-02-19**|**Enhancing Cross-Domain Recommendations with Memory-Optimized LLM-Based User Agents**|Jiahao Liu et.al.|[2502.13843](http://arxiv.org/abs/2502.13843)|null|
+|**2025-02-19**|**Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking**|Yilong Chen et.al.|[2502.13842](http://arxiv.org/abs/2502.13842)|null|
+|**2025-02-19**|**Calibration and Option Pricing with Stochastic Volatility and Double Exponential Jumps**|Gaetano Agazzotti et.al.|[2502.13824](http://arxiv.org/abs/2502.13824)|null|
+|**2025-02-19**|**MGFI-Net: A Multi-Grained Feature Integration Network for Enhanced Medical Image Segmentation**|Yucheng Zeng et.al.|[2502.13808](http://arxiv.org/abs/2502.13808)|null|
 |**2025-02-17**|**Learning Getting-Up Policies for Real-World Humanoid Robots**|Xialin He et.al.|[2502.12152](http://arxiv.org/abs/2502.12152)|null|
 |**2025-02-17**|**Hypernym Bias: Unraveling Deep Classifier Training Dynamics through the Lens of Class Hierarchy**|Roman Malashin et.al.|[2502.12125](http://arxiv.org/abs/2502.12125)|null|
 |**2025-02-17**|**PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection**|Jinhe Bi et.al.|[2502.12119](http://arxiv.org/abs/2502.12119)|null|
