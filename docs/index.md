@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.23
+## Updated on 2025.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind**|Zhining Zhang et.al.|[2502.15676](http://arxiv.org/abs/2502.15676)|null|
+|**2025-02-21**|**Almost AI, Almost Human: The Challenge of Detecting AI-Polished Writing**|Shoumik Saha et.al.|[2502.15666](http://arxiv.org/abs/2502.15666)|null|
+|**2025-02-21**|**Cross-Format Retrieval-Augmented Generation in XR with LLMs for Context-Aware Maintenance Assistance**|Akos Nagy et.al.|[2502.15604](http://arxiv.org/abs/2502.15604)|null|
+|**2025-02-21**|**Interpreting and Steering LLMs with Mutual Information-based Explanations on Sparse Autoencoders**|Xuansheng Wu et.al.|[2502.15576](http://arxiv.org/abs/2502.15576)|null|
+|**2025-02-21**|**Graduated orders over completed group rings and conductor formulæ**|Ben Forrás et.al.|[2502.15560](http://arxiv.org/abs/2502.15560)|null|
+|**2025-02-21**|**Status and prospect of weak radiative hyperon decays**|Rui-Xiang Shi et.al.|[2502.15473](http://arxiv.org/abs/2502.15473)|null|
+|**2025-02-21**|**Textual-to-Visual Iterative Self-Verification for Slide Generation**|Yunqing Xu et.al.|[2502.15412](http://arxiv.org/abs/2502.15412)|null|
+|**2025-02-21**|**Enhancing Vehicle Make and Model Recognition with 3D Attention Modules**|Narges Semiromizadeh et.al.|[2502.15398](http://arxiv.org/abs/2502.15398)|null|
+|**2025-02-21**|**Integrating Generative AI in Cybersecurity Education: Case Study Insights on Pedagogical Strategies, Critical Thinking, and Responsible AI Use**|Mahmoud Elkhodr et.al.|[2502.15357](http://arxiv.org/abs/2502.15357)|null|
+|**2025-02-21**|**A Supervised Screening and Regularized Factor-Based Method for Time Series Forecasting**|Sihan Tu et.al.|[2502.15275](http://arxiv.org/abs/2502.15275)|null|
 |**2025-02-20**|**Long-Term Multidimensional Models of Core-Collapse Supernovae: Progress and Challenges**|H. -Thomas Janka et.al.|[2502.14836](http://arxiv.org/abs/2502.14836)|null|
 |**2025-02-20**|**Optimizing Model Selection for Compound AI Systems**|Lingjiao Chen et.al.|[2502.14815](http://arxiv.org/abs/2502.14815)|null|
 |**2025-02-20**|**Sculpting [CLS] Features for Pre-Trained Model-Based Class-Incremental Learning**|Murat Onur Yildirim et.al.|[2502.14762](http://arxiv.org/abs/2502.14762)|null|
