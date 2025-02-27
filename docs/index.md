@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.25
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**Chevalley operations on TNN Grassmannians**|Prateek Kumar Vishwakarma et.al.|[2502.18419](http://arxiv.org/abs/2502.18419)|null|
+|**2025-02-25**|**Nanoscale characterization of atomic positions in orthorhombic perovskite thin films**|M. Martirosyan et.al.|[2502.18376](http://arxiv.org/abs/2502.18376)|null|
+|**2025-02-25**|**A Subconvex Metaplectic Prime Geodesic Theorem and the Shimura Correspondence**|Ikuya Kaneko et.al.|[2502.18366](http://arxiv.org/abs/2502.18366)|null|
+|**2025-02-25**|**Quantum extreme learning machines for photonic entanglement witnessing**|Danilo Zia et.al.|[2502.18361](http://arxiv.org/abs/2502.18361)|null|
+|**2025-02-25**|**Structural Alignment Improves Graph Test-Time Adaptation**|Hans Hao-Hsun Hsu et.al.|[2502.18334](http://arxiv.org/abs/2502.18334)|null|
+|**2025-02-25**|**LDGen: Enhancing Text-to-Image Synthesis via Large Language Model-Driven Language Representation**|Pengzhi Li et.al.|[2502.18302](http://arxiv.org/abs/2502.18302)|null|
+|**2025-02-25**|**Universality of Barwick's unfurling construction**|Bastiaan Cnossen et.al.|[2502.18278](http://arxiv.org/abs/2502.18278)|null|
+|**2025-02-25**|**A Competitive Posted-Price Mechanism for Online Budget-Feasible Auctions**|Andreas Charalampopoulos et.al.|[2502.18265](http://arxiv.org/abs/2502.18265)|null|
+|**2025-02-25**|**Beyond the convexity assumption: Realistic tabular data generation under quantifier-free real linear constraints**|Mihaela Cătălina Stoian et.al.|[2502.18237](http://arxiv.org/abs/2502.18237)|null|
+|**2025-02-25**|**Problem Solved? Information Extraction Design Space for Layout-Rich Documents using LLMs**|Gaye Colakoglu et.al.|[2502.18179](http://arxiv.org/abs/2502.18179)|null|
 |**2025-02-21**|**AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind**|Zhining Zhang et.al.|[2502.15676](http://arxiv.org/abs/2502.15676)|null|
 |**2025-02-21**|**Almost AI, Almost Human: The Challenge of Detecting AI-Polished Writing**|Shoumik Saha et.al.|[2502.15666](http://arxiv.org/abs/2502.15666)|null|
 |**2025-02-21**|**Cross-Format Retrieval-Augmented Generation in XR with LLMs for Context-Aware Maintenance Assistance**|Akos Nagy et.al.|[2502.15604](http://arxiv.org/abs/2502.15604)|null|
