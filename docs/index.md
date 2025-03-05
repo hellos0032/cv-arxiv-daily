@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.03
+## Updated on 2025.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**LLM Post-Training: A Deep Dive into Reasoning Large Language Models**|Komal Kumar et.al.|[2502.21321](http://arxiv.org/abs/2502.21321)|null|
+|**2025-02-28**|**Fujita-type results for the semilinear heat equations driven by mixed local-nonlocal operators**|Vishvesh Kumar et.al.|[2502.21273](http://arxiv.org/abs/2502.21273)|null|
+|**2025-02-28**|**RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**|Yuheng Ji et.al.|[2502.21257](http://arxiv.org/abs/2502.21257)|null|
+|**2025-02-28**|**A relax-fix-and-exclude algorithm for an MINLP problem with multilinear interpolations**|Bruno Machado Pacheco et.al.|[2502.21249](http://arxiv.org/abs/2502.21249)|null|
+|**2025-02-28**|**Brickify: Enabling Expressive Design Intent Specification through Direct Manipulation on Design Tokens**|Xinyu Shi et.al.|[2502.21219](http://arxiv.org/abs/2502.21219)|null|
+|**2025-02-28**|**Approximation of anisotropic pair potentials using multivariate interpolation**|Mohammadreza Fakhraei et.al.|[2502.21203](http://arxiv.org/abs/2502.21203)|null|
+|**2025-02-28**|**Polynomial-Size Enumeration Kernelizations for Long Path Enumeration**|Christian Komusiewicz et.al.|[2502.21164](http://arxiv.org/abs/2502.21164)|null|
+|**2025-02-28**|**An LLM-based Delphi Study to Predict GenAI Evolution**|Francesco Bertolotti et.al.|[2502.21092](http://arxiv.org/abs/2502.21092)|null|
+|**2025-02-28**|**BST: Badminton Stroke-type Transformer for Skeleton-based Action Recognition in Racket Sports**|Jing-Yuan Chang et.al.|[2502.21085](http://arxiv.org/abs/2502.21085)|null|
+|**2025-02-28**|**Enhancing deep neural networks through complex-valued representations and Kuramoto synchronization dynamics**|Sabine Muzellec et.al.|[2502.21077](http://arxiv.org/abs/2502.21077)|null|
 |**2025-02-27**|**InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2502.20390](http://arxiv.org/abs/2502.20390)|null|
 |**2025-02-27**|**Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**|Lujie Yang et.al.|[2502.20382](http://arxiv.org/abs/2502.20382)|null|
 |**2025-02-27**|**Bridging the Creativity Understanding Gap: Small-Scale Human Alignment Enables Expert-Level Humor Ranking in LLMs**|Kuan Lok Zhou et.al.|[2502.20356](http://arxiv.org/abs/2502.20356)|null|
