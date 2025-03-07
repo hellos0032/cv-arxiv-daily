@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.05
+## Updated on 2025.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**Comparison of Experimental and Theoretical Mechanical Jitter in a THz Communication Link**|Ethan Abele et.al.|[2503.03740](http://arxiv.org/abs/2503.03740)|null|
+|**2025-03-05**|**Noncommutative Phantom BTZ Black Hole**|B. Hamil et.al.|[2503.03725](http://arxiv.org/abs/2503.03725)|null|
+|**2025-03-05**|**Developing and Utilizing a Large-Scale Cantonese Dataset for Multi-Tasking in Large Language Models**|Jiyue Jiang et.al.|[2503.03702](http://arxiv.org/abs/2503.03702)|null|
+|**2025-03-05**|**A Generative Approach to High Fidelity 3D Reconstruction from Text Data**|Venkat Kumar R et.al.|[2503.03664](http://arxiv.org/abs/2503.03664)|null|
+|**2025-03-05**|**Space-time analyticity and refined analyticity radius of the Navier-Stokes equations in the critical Besov spaces**|Cong Wang et.al.|[2503.03658](http://arxiv.org/abs/2503.03658)|null|
+|**2025-03-05**|**Effect of Ag nano-additivation on microstructure formation in Nd-Fe-B magnets built by laser powder bed fusion**|Varatharaja Nallathambi et.al.|[2503.03623](http://arxiv.org/abs/2503.03623)|null|
+|**2025-03-05**|**Bounding the computational power of bosonic systems**|Varun Upreti et.al.|[2503.03600](http://arxiv.org/abs/2503.03600)|null|
+|**2025-03-05**|**Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories**|Alperen Yildiz et.al.|[2503.03586](http://arxiv.org/abs/2503.03586)|null|
+|**2025-03-05**|**Chemical abundance inventory in phosphorus-rich stars**|Maren Brauner et.al.|[2503.03569](http://arxiv.org/abs/2503.03569)|null|
+|**2025-03-05**|**A self-supervised cyclic neural-analytic approach for novel view synthesis and 3D reconstruction**|Dragos Costea et.al.|[2503.03543](http://arxiv.org/abs/2503.03543)|null|
 |**2025-02-28**|**LLM Post-Training: A Deep Dive into Reasoning Large Language Models**|Komal Kumar et.al.|[2502.21321](http://arxiv.org/abs/2502.21321)|null|
 |**2025-02-28**|**Fujita-type results for the semilinear heat equations driven by mixed local-nonlocal operators**|Vishvesh Kumar et.al.|[2502.21273](http://arxiv.org/abs/2502.21273)|null|
 |**2025-02-28**|**RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**|Yuheng Ji et.al.|[2502.21257](http://arxiv.org/abs/2502.21257)|null|
