@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.17
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**MetaScale: Test-Time Scaling with Evolving Meta-Thoughts**|Qin Liu et.al.|[2503.13447](http://arxiv.org/abs/2503.13447)|null|
+|**2025-03-17**|**Numerical Hopf-Lax formulae for Hamilton-Jacobi equations on unstructured geometries**|Simone Cacace et.al.|[2503.13311](http://arxiv.org/abs/2503.13311)|null|
+|**2025-03-17**|**Knowledge-Aware Iterative Retrieval for Multi-Agent Systems**|Seyoung Song et.al.|[2503.13275](http://arxiv.org/abs/2503.13275)|null|
+|**2025-03-17**|**Sampling Innovation-Based Adaptive Compressive Sensing**|Zhifu Tian et.al.|[2503.13241](http://arxiv.org/abs/2503.13241)|null|
+|**2025-03-17**|**A General Adaptive Dual-level Weighting Mechanism for Remote Sensing Pansharpening**|Jie Huang et.al.|[2503.13214](http://arxiv.org/abs/2503.13214)|null|
+|**2025-03-17**|**A~posteriori error analysis for optimization with PDE constraints**|Fernando Gaspoz et.al.|[2503.13170](http://arxiv.org/abs/2503.13170)|null|
+|**2025-03-17**|**From Zero to Detail: Deconstructing Ultra-High-Definition Image Restoration from Progressive Spectral Perspective**|Chen Zhao et.al.|[2503.13165](http://arxiv.org/abs/2503.13165)|null|
+|**2025-03-17**|**Iterative Predictor-Critic Code Decoding for Real-World Image Dehazing**|Jiayi Fu et.al.|[2503.13147](http://arxiv.org/abs/2503.13147)|null|
+|**2025-03-17**|**Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding**|Weiyu Guo et.al.|[2503.13139](http://arxiv.org/abs/2503.13139)|null|
+|**2025-03-17**|**Accelerating large-scale linear algebra using variational quantum imaginary time evolution**|Willie Aboumrad et.al.|[2503.13128](http://arxiv.org/abs/2503.13128)|null|
 |**2025-03-13**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
 |**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635](http://arxiv.org/abs/2503.10635)|**[link](https://github.com/vila-lab/m-attack)**|
 |**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625](http://arxiv.org/abs/2503.10625)|null|
