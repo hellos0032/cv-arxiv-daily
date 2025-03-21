@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.19
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement**|Yuchen Ren et.al.|[2503.15404](http://arxiv.org/abs/2503.15404)|null|
+|**2025-03-19**|**CCDP: Composition of Conditional Diffusion Policies with Guided Sampling**|Amirreza Razmjoo et.al.|[2503.15386](http://arxiv.org/abs/2503.15386)|null|
+|**2025-03-19**|**SPILL: Domain-Adaptive Intent Clustering based on Selection and Pooling with Large Language Models**|I-Fan Lin et.al.|[2503.15351](http://arxiv.org/abs/2503.15351)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1). The active galaxies of Euclid**|Euclid Collaboration et.al.|[2503.15320](http://arxiv.org/abs/2503.15320)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1) First study of red quasars selection**|Euclid Collaboration et.al.|[2503.15319](http://arxiv.org/abs/2503.15319)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1), A first look at the fraction of bars in massive galaxies at $z<1$**|Euclid Collaboration et.al.|[2503.15311](http://arxiv.org/abs/2503.15311)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1) -- Characteristics and limitations of the spectroscopic measurements**|Euclid Collaboration et.al.|[2503.15308](http://arxiv.org/abs/2503.15308)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1): From spectrograms to spectra: the SIR spectroscopic Processing Function**|Euclid Collaboration et.al.|[2503.15307](http://arxiv.org/abs/2503.15307)|null|
+|**2025-03-19**|**Revealing the drivers of turbulence anisotropy over flat and complex terrain: an interpretable machine learning approach**|Samuele Mosso et.al.|[2503.15276](http://arxiv.org/abs/2503.15276)|null|
+|**2025-03-19**|**MAMM-Refine: A Recipe for Improving Faithfulness in Generation with Multi-Agent Collaboration**|David Wan et.al.|[2503.15272](http://arxiv.org/abs/2503.15272)|null|
 |**2025-03-17**|**MetaScale: Test-Time Scaling with Evolving Meta-Thoughts**|Qin Liu et.al.|[2503.13447](http://arxiv.org/abs/2503.13447)|null|
 |**2025-03-17**|**Numerical Hopf-Lax formulae for Hamilton-Jacobi equations on unstructured geometries**|Simone Cacace et.al.|[2503.13311](http://arxiv.org/abs/2503.13311)|null|
 |**2025-03-17**|**Knowledge-Aware Iterative Retrieval for Multi-Agent Systems**|Seyoung Song et.al.|[2503.13275](http://arxiv.org/abs/2503.13275)|null|
