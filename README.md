@@ -1,4 +1,4 @@
-## Updated on 2025.03.21
+## Updated on 2025.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -793,7 +793,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
 
 ## SFM
 
@@ -1120,7 +1120,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2142,7 +2142,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2419,7 +2419,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2709,7 +2709,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
 
 ## NeRF
 
@@ -4163,12 +4163,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
 
 ## human pose
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**The global convergence time of stochastic gradient descent in non-convex landscapes: Sharp estimates via large deviations**|Waïss Azizian et.al.|[2503.16398](http://arxiv.org/abs/2503.16398)|null|
+|**2025-03-20**|**SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation**|Chun-Han Yao et.al.|[2503.16396](http://arxiv.org/abs/2503.16396)|null|
+|**2025-03-20**|**JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse**|Muyao Li et.al.|[2503.16365](http://arxiv.org/abs/2503.16365)|null|
+|**2025-03-20**|**HiQ-Lip: The First Quantum-Classical Hierarchical Method for Global Lipschitz Constant Estimation of ReLU Networks**|Haoqi He et.al.|[2503.16342](http://arxiv.org/abs/2503.16342)|null|
+|**2025-03-20**|**LLM Braces: Straightening Out LLM Predictions with Relevant Sub-Updates**|Ying Shen et.al.|[2503.16334](http://arxiv.org/abs/2503.16334)|null|
+|**2025-03-20**|**NeuralFoil: An Airfoil Aerodynamics Analysis Tool Using Physics-Informed Machine Learning**|Peter Sharpe et.al.|[2503.16323](http://arxiv.org/abs/2503.16323)|**[link](https://github.com/peterdsharpe/neuralfoil)**|
+|**2025-03-20**|**Issue2Test: Generating Reproducing Test Cases from Issue Reports**|Noor Nashid et.al.|[2503.16320](http://arxiv.org/abs/2503.16320)|null|
+|**2025-03-20**|**Localized Heating and Dynamics of the Solar Corona due to a Symbiosis of Waves and Reconnection**|A. K. Srivastava et.al.|[2503.16300](http://arxiv.org/abs/2503.16300)|null|
+|**2025-03-20**|**Surface quasigeostrophic turbulence: The refined study of an active scalar**|Nicolas Valade et.al.|[2503.16294](http://arxiv.org/abs/2503.16294)|null|
+|**2025-03-20**|**Refined BPS numbers on compact Calabi-Yau 3-folds from Wilson loops**|Minxin Huang et.al.|[2503.16270](http://arxiv.org/abs/2503.16270)|null|
 |**2025-03-19**|**Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement**|Yuchen Ren et.al.|[2503.15404](http://arxiv.org/abs/2503.15404)|null|
 |**2025-03-19**|**CCDP: Composition of Conditional Diffusion Policies with Guided Sampling**|Amirreza Razmjoo et.al.|[2503.15386](http://arxiv.org/abs/2503.15386)|null|
 |**2025-03-19**|**SPILL: Domain-Adaptive Intent Clustering based on Selection and Pooling with Large Language Models**|I-Fan Lin et.al.|[2503.15351](http://arxiv.org/abs/2503.15351)|null|
@@ -4428,7 +4438,7 @@
 |**2025-01-21**|**Evaluating many-body stabilizer Rényi entropy by sampling reduced Pauli strings: singularities, volume law, and nonlocal magic**|Yi-Ming Ding et.al.|[2501.12146](http://arxiv.org/abs/2501.12146)|null|
 |**2025-01-21**|**GaussianVideo: Efficient Video Representation Through 2D Gaussian Splatting**|Longan Wang et.al.|[2501.12060](http://arxiv.org/abs/2501.12060)|null|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

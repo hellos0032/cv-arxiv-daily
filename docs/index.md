@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.21
+## Updated on 2025.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**The global convergence time of stochastic gradient descent in non-convex landscapes: Sharp estimates via large deviations**|Waïss Azizian et.al.|[2503.16398](http://arxiv.org/abs/2503.16398)|null|
+|**2025-03-20**|**SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation**|Chun-Han Yao et.al.|[2503.16396](http://arxiv.org/abs/2503.16396)|null|
+|**2025-03-20**|**JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse**|Muyao Li et.al.|[2503.16365](http://arxiv.org/abs/2503.16365)|null|
+|**2025-03-20**|**HiQ-Lip: The First Quantum-Classical Hierarchical Method for Global Lipschitz Constant Estimation of ReLU Networks**|Haoqi He et.al.|[2503.16342](http://arxiv.org/abs/2503.16342)|null|
+|**2025-03-20**|**LLM Braces: Straightening Out LLM Predictions with Relevant Sub-Updates**|Ying Shen et.al.|[2503.16334](http://arxiv.org/abs/2503.16334)|null|
+|**2025-03-20**|**NeuralFoil: An Airfoil Aerodynamics Analysis Tool Using Physics-Informed Machine Learning**|Peter Sharpe et.al.|[2503.16323](http://arxiv.org/abs/2503.16323)|**[link](https://github.com/peterdsharpe/neuralfoil)**|
+|**2025-03-20**|**Issue2Test: Generating Reproducing Test Cases from Issue Reports**|Noor Nashid et.al.|[2503.16320](http://arxiv.org/abs/2503.16320)|null|
+|**2025-03-20**|**Localized Heating and Dynamics of the Solar Corona due to a Symbiosis of Waves and Reconnection**|A. K. Srivastava et.al.|[2503.16300](http://arxiv.org/abs/2503.16300)|null|
+|**2025-03-20**|**Surface quasigeostrophic turbulence: The refined study of an active scalar**|Nicolas Valade et.al.|[2503.16294](http://arxiv.org/abs/2503.16294)|null|
+|**2025-03-20**|**Refined BPS numbers on compact Calabi-Yau 3-folds from Wilson loops**|Minxin Huang et.al.|[2503.16270](http://arxiv.org/abs/2503.16270)|null|
 |**2025-03-19**|**Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement**|Yuchen Ren et.al.|[2503.15404](http://arxiv.org/abs/2503.15404)|null|
 |**2025-03-19**|**CCDP: Composition of Conditional Diffusion Policies with Guided Sampling**|Amirreza Razmjoo et.al.|[2503.15386](http://arxiv.org/abs/2503.15386)|null|
 |**2025-03-19**|**SPILL: Domain-Adaptive Intent Clustering based on Selection and Pooling with Large Language Models**|I-Fan Lin et.al.|[2503.15351](http://arxiv.org/abs/2503.15351)|null|
