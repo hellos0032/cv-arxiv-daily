@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.29
+## Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4153,7 +4153,7 @@ layout: default
 |**2025-03-27**|**Structure and Melting of Fe, MgO, SiO2, and MgSiO3 in Planets: Database, Inversion, and Phase Diagram**|Junjie Dong et.al.|[2503.21734](http://arxiv.org/abs/2503.21734)|null|
 |**2025-03-27**|**ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation**|Zhicheng Lee et.al.|[2503.21729](http://arxiv.org/abs/2503.21729)|null|
 |**2025-03-27**|**OccRobNet : Occlusion Robust Network for Accurate 3D Interacting Hand-Object Pose Estimation**|Mallika Garg et.al.|[2503.21723](http://arxiv.org/abs/2503.21723)|null|
-|**2025-03-27**|**When Astronomy Meets AI: Manazel For Crescent Visibility Prediction in Morocco**|Yassir Lairgi et.al.|[2503.21634](http://arxiv.org/abs/2503.21634)|null|
+|**2025-03-27**|**When Astronomy Meets AI: Manazel For Crescent Visibility Prediction in Morocco**|Yassir Lairgi et.al.|[2503.21634](http://arxiv.org/abs/2503.21634)|**[link](https://github.com/lairgiyassir/manazel)**|
 |**2025-03-27**|**Prompt, Divide, and Conquer: Bypassing Large Language Model Safety Filters via Segmented and Distributed Prompt Processing**|Johan Wahréus et.al.|[2503.21598](http://arxiv.org/abs/2503.21598)|null|
 |**2025-03-27**|**Magnitude-Phase Dual-Path Speech Enhancement Network based on Self-Supervised Embedding and Perceptual Contrast Stretch Boosting**|Alimjan Mattursun et.al.|[2503.21571](http://arxiv.org/abs/2503.21571)|null|
 |**2025-03-27**|**Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method**|Wenyi Xiong et.al.|[2503.21477](http://arxiv.org/abs/2503.21477)|null|
