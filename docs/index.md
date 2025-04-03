@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.01
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views**|Chong Bao et.al.|[2503.24382](http://arxiv.org/abs/2503.24382)|null|
+|**2025-03-31**|**Cell divisions both challenge and refine tissue boundaries in the Drosophila embryo**|Veronica Castle et.al.|[2503.24261](http://arxiv.org/abs/2503.24261)|null|
+|**2025-03-31**|**Computational Orthodontic Force Simulation: A Review**|Waheed Ahmad et.al.|[2503.24195](http://arxiv.org/abs/2503.24195)|null|
+|**2025-04-01**|**Moving mesh FSI approach for VIV simulation based on DG method with AMR technique**|Jia-Jun Zou et.al.|[2503.24134](http://arxiv.org/abs/2503.24134)|null|
+|**2025-03-31**|**Initial State Privacy of Nonlinear Systems on Riemannian Manifolds**|Le Liu et.al.|[2503.24089](http://arxiv.org/abs/2503.24089)|null|
+|**2025-03-31**|**Accelerated Airfoil Design Using Neural Network Approaches**|Anantram Patel et.al.|[2503.24052](http://arxiv.org/abs/2503.24052)|null|
+|**2025-03-31**|**Bi-Level Route Optimization and Path Planning with Hazard Exploration**|Jimin Choi et.al.|[2503.24044](http://arxiv.org/abs/2503.24044)|null|
+|**2025-03-31**|**Frequency-Aware Attention-LSTM for PM $_{2.5}$ Time Series Forecasting**|Jiahui LU et.al.|[2503.24043](http://arxiv.org/abs/2503.24043)|null|
+|**2025-03-31**|**TOPz: photometric redshifts using template fitting applied to GAMA survey**|E. Tempel et.al.|[2503.24039](http://arxiv.org/abs/2503.24039)|null|
+|**2025-03-31**|**Global Well-Posedness of the 3D Navier-Stokes Equations under Multi-Level Logarithmically Improved Criteria**|Rishabh Mishra et.al.|[2503.24029](http://arxiv.org/abs/2503.24029)|null|
 |**2025-03-28**|**Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**|Mohammad Almansoori et.al.|[2503.22678](http://arxiv.org/abs/2503.22678)|null|
 |**2025-03-28**|**TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting**|Boyang et.al.|[2503.22676](http://arxiv.org/abs/2503.22676)|null|
 |**2025-03-28**|**Tropical Bisectors and Carlini-Wagner Attacks**|Gillian Grindstaff et.al.|[2503.22653](http://arxiv.org/abs/2503.22653)|null|
