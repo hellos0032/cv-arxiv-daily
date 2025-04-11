@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.09
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills**|Boyuan Zheng et.al.|[2504.07079](http://arxiv.org/abs/2504.07079)|null|
+|**2025-04-09**|**Generalized Semantic Contrastive Learning via Embedding Side Information for Few-Shot Object Detection**|Ruoyu Chen et.al.|[2504.07060](http://arxiv.org/abs/2504.07060)|null|
+|**2025-04-09**|**HIP 15429: a newborn Be star on an eccentric binary orbit**|Johanna Müller-Horn et.al.|[2504.06973](http://arxiv.org/abs/2504.06973)|null|
+|**2025-04-09**|**Efficient Self-Supervised Learning for Earth Observation via Dynamic Dataset Curation**|Thomas Kerdreux et.al.|[2504.06962](http://arxiv.org/abs/2504.06962)|null|
+|**2025-04-09**|**How does the supercritical GMC converge?**|Federico Bertacco et.al.|[2504.06956](http://arxiv.org/abs/2504.06956)|null|
+|**2025-04-09**|**On Macdonald expansions of $q$ -chromatic symmetric functions and the Stanley-Stembridge Conjecture**|Sean T. Griffin et.al.|[2504.06936](http://arxiv.org/abs/2504.06936)|null|
+|**2025-04-09**|**Leveraging Anatomical Priors for Automated Pancreas Segmentation on Abdominal CT**|Anisa V. Prasad et.al.|[2504.06921](http://arxiv.org/abs/2504.06921)|null|
+|**2025-04-09**|**UKBOB: One Billion MRI Labeled Masks for Generalizable 3D Medical Image Segmentation**|Emmanuelle Bourigault et.al.|[2504.06908](http://arxiv.org/abs/2504.06908)|null|
+|**2025-04-09**|**On Poincaré constants related to isoperimetric problems in convex bodies**|Dorin Bucur et.al.|[2504.06900](http://arxiv.org/abs/2504.06900)|null|
+|**2025-04-09**|**A Dataset of Software Bill of Materials for Evaluating SBOM Consumption Tools**|Rio Kishimoto et.al.|[2504.06880](http://arxiv.org/abs/2504.06880)|null|
 |**2025-04-07**|**URECA: Unique Region Caption Anything**|Sangbeom Lim et.al.|[2504.05305](http://arxiv.org/abs/2504.05305)|null|
 |**2025-04-07**|**S^4M: Boosting Semi-Supervised Instance Segmentation with SAM**|Heeji Yoon et.al.|[2504.05301](http://arxiv.org/abs/2504.05301)|null|
 |**2025-04-07**|**Spectral correlations of dynamical Resonance Fluorescence**|Santiago Bermúdez Feijóo et.al.|[2504.05242](http://arxiv.org/abs/2504.05242)|null|
