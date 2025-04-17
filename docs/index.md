@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.15
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Optimal Hardness of Online Algorithms for Large Independent Sets**|David Gamarnik et.al.|[2504.11450](http://arxiv.org/abs/2504.11450)|null|
+|**2025-04-15**|**Reinforcing Compositional Retrieval: Retrieving Step-by-Step for Composing Informative Contexts**|Quanyu Long et.al.|[2504.11420](http://arxiv.org/abs/2504.11420)|null|
+|**2025-04-15**|**Breaking a Long-Standing Barrier: 2- $\varepsilon$ Approximation for Steiner Forest**|Ali Ahmadi et.al.|[2504.11398](http://arxiv.org/abs/2504.11398)|null|
+|**2025-04-15**|**Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning**|Haiming Wang et.al.|[2504.11354](http://arxiv.org/abs/2504.11354)|null|
+|**2025-04-15**|**Adaptive Compressible Smoothed Particle Hydrodynamics**|Navaneet Villodi et.al.|[2504.11350](http://arxiv.org/abs/2504.11350)|null|
+|**2025-04-15**|**A Mathematical Framework of Semantic Communication based on Category Theory**|Shuheng Hua et.al.|[2504.11334](http://arxiv.org/abs/2504.11334)|null|
+|**2025-04-15**|**Optimal finite element approximations of monotone semilinear elliptic PDE with subcritical nonlinearities**|Florian Spicher et.al.|[2504.11292](http://arxiv.org/abs/2504.11292)|null|
+|**2025-04-15**|**Simulation-based inference for stochastic nonlinear mixed-effects models with applications in systems biology**|Henrik Häggström et.al.|[2504.11279](http://arxiv.org/abs/2504.11279)|null|
+|**2025-04-16**|**Robust MPC for Uncertain Linear Systems -- Combining Model Adaptation and Iterative Learning**|Hannes Petrenz et.al.|[2504.11261](http://arxiv.org/abs/2504.11261)|null|
+|**2025-04-15**|**Physics-Aware Initialization Refinement in Code-Aided EM for Blind Channel Estimation**|Chin-Hung Chen et.al.|[2504.11241](http://arxiv.org/abs/2504.11241)|null|
 |**2025-04-11**|**EMO-X: Efficient Multi-Person Pose and Shape Estimation in One-Stage**|Haohang Jian et.al.|[2504.08718](http://arxiv.org/abs/2504.08718)|null|
 |**2025-04-11**|**Counting independent sets in percolated graphs via the Ising model**|Anna Geisler et.al.|[2504.08715](http://arxiv.org/abs/2504.08715)|null|
 |**2025-04-11**|**Generating Fine Details of Entity Interactions**|Xinyi Gu et.al.|[2504.08714](http://arxiv.org/abs/2504.08714)|null|
