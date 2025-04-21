@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.19
+## Updated on 2025.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4149,13 +4149,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181](http://arxiv.org/abs/2504.13181)|null|
-|**2025-04-17**|**Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling**|Tsung-Han Wu et.al.|[2504.13169](http://arxiv.org/abs/2504.13169)|null|
+|**2025-04-17**|**Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling**|Tsung-Han Wu et.al.|[2504.13169](http://arxiv.org/abs/2504.13169)|**[link](https://github.com/tsunghan-wu/reverse_vlm)**|
 |**2025-04-17**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167](http://arxiv.org/abs/2504.13167)|null|
 |**2025-04-17**|**CLIMB: CLustering-based Iterative Data Mixture Bootstrapping for Language Model Pre-training**|Shizhe Diao et.al.|[2504.13161](http://arxiv.org/abs/2504.13161)|null|
 |**2025-04-17**|**Energy-Based Reward Models for Robust Language Model Alignment**|Anamika Lochab et.al.|[2504.13134](http://arxiv.org/abs/2504.13134)|null|
 |**2025-04-17**|**Cosmological Parameters Estimate from Persistent Radio Sources of Fast Radio Bursts**|Zi-Liang Zhang et.al.|[2504.13132](http://arxiv.org/abs/2504.13132)|null|
 |**2025-04-17**|**Science-T2I: Addressing Scientific Illusions in Image Synthesis**|Jialuo Li et.al.|[2504.13129](http://arxiv.org/abs/2504.13129)|null|
-|**2025-04-17**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
+|**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
 |**2025-04-17**|**Evidence for sulfur chemistry in the atmosphere of the warm sub-Neptune TOI-270 d**|Lukas Felix et.al.|[2504.13039](http://arxiv.org/abs/2504.13039)|null|
 |**2025-04-17**|**Large global solutions to the Oldroyd-B model with dissipation**|Tao Liang et.al.|[2504.12986](http://arxiv.org/abs/2504.12986)|null|
 |**2025-04-15**|**Optimal Hardness of Online Algorithms for Large Independent Sets**|David Gamarnik et.al.|[2504.11450](http://arxiv.org/abs/2504.11450)|null|
