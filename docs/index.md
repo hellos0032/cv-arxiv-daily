@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.21
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|null|
+|**2025-04-21**|**Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**|Ehsan Ahmadi et.al.|[2504.15263](http://arxiv.org/abs/2504.15263)|null|
+|**2025-04-21**|**Bringing Diversity from Diffusion Models to Semantic-Guided Face Asset Generation**|Yunxuan Cai et.al.|[2504.15259](http://arxiv.org/abs/2504.15259)|null|
+|**2025-04-21**|**Evaluating Judges as Evaluators: The JETTS Benchmark of LLM-as-Judges as Test-Time Scaling Evaluators**|Yilun Zhou et.al.|[2504.15253](http://arxiv.org/abs/2504.15253)|**[link](https://github.com/salesforceairesearch/jetts-benchmark)**|
+|**2025-04-21**|**EvalAgent: Discovering Implicit Evaluation Criteria from the Web**|Manya Wadhwa et.al.|[2504.15219](http://arxiv.org/abs/2504.15219)|null|
+|**2025-04-21**|**Position: Bayesian Statistics Facilitates Stakeholder Participation in Evaluation of Generative AI**|Yanan Long et.al.|[2504.15211](http://arxiv.org/abs/2504.15211)|null|
+|**2025-04-21**|**Zero-Shot, But at What Cost? Unveiling the Hidden Overhead of MILS's LLM-CLIP Framework for Image Captioning**|Yassir Benhammou et.al.|[2504.15199](http://arxiv.org/abs/2504.15199)|null|
+|**2025-04-22**|**LACE: Controlled Image Prompting and Iterative Refinement with GenAI for Professional Visual Art Creators**|Yenkai Huang et.al.|[2504.15189](http://arxiv.org/abs/2504.15189)|null|
+|**2025-04-22**|**Synergistic Weak-Strong Collaboration by Aligning Preferences**|Yizhu Jiao et.al.|[2504.15188](http://arxiv.org/abs/2504.15188)|null|
+|**2025-04-21**|**HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection**|Chengxi Han et.al.|[2504.15170](http://arxiv.org/abs/2504.15170)|**[link](https://github.com/chengxihan/hsanet)**|
 |**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181](http://arxiv.org/abs/2504.13181)|null|
 |**2025-04-17**|**Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling**|Tsung-Han Wu et.al.|[2504.13169](http://arxiv.org/abs/2504.13169)|**[link](https://github.com/tsunghan-wu/reverse_vlm)**|
 |**2025-04-17**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167](http://arxiv.org/abs/2504.13167)|null|
