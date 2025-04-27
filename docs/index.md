@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.25
+## Updated on 2025.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Flux tube clustering from magnetic coupling of adjacent type-I and -II superconductors in a neutron star: persistent gravitational radiation**|K. H. Thong et.al.|[2504.17746](http://arxiv.org/abs/2504.17746)|null|
+|**2025-04-24**|**LUIDA: Large-scale Unified Infrastructure for Digital Assessments based on Commercial Metaverse Platform**|Yong-Hao Hu et.al.|[2504.17705](http://arxiv.org/abs/2504.17705)|null|
+|**2025-04-24**|**Sparsity-Exploiting Channel Estimation For Unsourced Random Access With Fluid Antenna**|Keru Zhou et.al.|[2504.17634](http://arxiv.org/abs/2504.17634)|null|
+|**2025-04-24**|**Decentralized Time Series Classification with ROCKET Features**|Bruno Casella et.al.|[2504.17617](http://arxiv.org/abs/2504.17617)|null|
+|**2025-04-24**|**Linear-Time Multilevel Graph Partitioning via Edge Sparsification**|Lars Gottesbüren et.al.|[2504.17615](http://arxiv.org/abs/2504.17615)|null|
+|**2025-04-24**|**SAPO-RL: Sequential Actuator Placement Optimization for Fuselage Assembly via Reinforcement Learning**|Peng Ye et.al.|[2504.17603](http://arxiv.org/abs/2504.17603)|null|
+|**2025-04-24**|**Unveiling Hidden Vulnerabilities in Digital Human Generation via Adversarial Attacks**|Zhiying Li et.al.|[2504.17457](http://arxiv.org/abs/2504.17457)|null|
+|**2025-04-24**|**Encode the $\forall\exists$ Relational Hoare Logic into Standard Hoare Logic**|Shushu WU et.al.|[2504.17444](http://arxiv.org/abs/2504.17444)|null|
+|**2025-04-24**|**Predict-Optimize-Distill: A Self-Improving Cycle for 4D Object Understanding**|Mingxuan Wu et.al.|[2504.17441](http://arxiv.org/abs/2504.17441)|null|
+|**2025-04-24**|**SDVPT: Semantic-Driven Visual Prompt Tuning for Open-World Object Counting**|Yiming Zhao et.al.|[2504.17395](http://arxiv.org/abs/2504.17395)|null|
 |**2025-04-23**|**OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents**|Raghav Thind et.al.|[2504.16918](http://arxiv.org/abs/2504.16918)|null|
 |**2025-04-23**|**Zero-shot Sim-to-Real Transfer for Reinforcement Learning-based Visual Servoing of Soft Continuum Arms**|Hsin-Jung Yang et.al.|[2504.16916](http://arxiv.org/abs/2504.16916)|null|
 |**2025-04-23**|**Axiomatic Equilibrium Selection: The Case of Generic Extensive Form Games**|Srihari Govindan et.al.|[2504.16908](http://arxiv.org/abs/2504.16908)|null|
