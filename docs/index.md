@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.29
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**|Ziqing Fan et.al.|[2504.20930](http://arxiv.org/abs/2504.20930)|null|
+|**2025-04-29**|**Modeling AI-Human Collaboration as a Multi-Agent Adaptation**|Prothit Sen et.al.|[2504.20903](http://arxiv.org/abs/2504.20903)|**[link](https://github.com/saimihirj/NKC-Multi-Agent-Models)**|
+|**2025-04-29**|**Evaluating Generative Models for Tabular Data: Novel Metrics and Benchmarking**|Dayananda Herurkar et.al.|[2504.20900](http://arxiv.org/abs/2504.20900)|null|
+|**2025-04-29**|**LELANTE: LEveraging LLM for Automated ANdroid TEsting**|Shamit Fatin et.al.|[2504.20896](http://arxiv.org/abs/2504.20896)|null|
+|**2025-04-29**|**X-Cross: Dynamic Integration of Language Models for Cross-Domain Sequential Recommendation**|Guy Hadad et.al.|[2504.20859](http://arxiv.org/abs/2504.20859)|null|
+|**2025-04-29**|**Bitcoin, a DAO?**|Mark C. Ballandies et.al.|[2504.20838](http://arxiv.org/abs/2504.20838)|null|
+|**2025-04-29**|**RadSAM: Segmenting 3D radiological images with a 2D promptable model**|Julien Khlaut et.al.|[2504.20837](http://arxiv.org/abs/2504.20837)|null|
+|**2025-04-29**|**Numerical Relativity Simulations of Dark Matter Admixed Binary Neutron Stars**|Edoardo Giangrandi et.al.|[2504.20825](http://arxiv.org/abs/2504.20825)|null|
+|**2025-04-29**|**Effective Index Construction Algorithm for Optimal $(k,η)$ -cores Computation**|Shengli Sun et.al.|[2504.20795](http://arxiv.org/abs/2504.20795)|null|
+|**2025-04-29**|**Refined Predictions for Starobinsky Inflation and Post-inflationary Constraints in Light of ACT**|Manuel Drees et.al.|[2504.20757](http://arxiv.org/abs/2504.20757)|null|
 |**2025-04-25**|**Absence of anomalous dissipation for vortex sheets**|Tarek Elgindi et.al.|[2504.18523](http://arxiv.org/abs/2504.18523)|null|
 |**2025-04-25**|**RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement**|Jiahao Huang et.al.|[2504.18520](http://arxiv.org/abs/2504.18520)|null|
 |**2025-04-25**|**An Improved ResNet50 Model for Predicting Pavement Condition Index (PCI) Directly from Pavement Images**|Andrews Danyo et.al.|[2504.18490](http://arxiv.org/abs/2504.18490)|null|
