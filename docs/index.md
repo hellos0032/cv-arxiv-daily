@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.01
+## Updated on 2025.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Multi-wavelength JWST observations of (3200) Phaethon show a dehydrated object with an aqueously altered origin**|Cristina A. Thomas et.al.|[2505.00692](http://arxiv.org/abs/2505.00692)|null|
+|**2025-05-01**|**The Architecture Tradeoff and Risk Analysis Framework (ATRAF): A Unified Approach for Evaluating Software Architectures, Reference Architectures, and Architectural Frameworks**|Amine Ben Hassouna et.al.|[2505.00688](http://arxiv.org/abs/2505.00688)|null|
+|**2025-05-01**|**Auditing without Leaks Despite Curiosity**|Hagit Attiya et.al.|[2505.00665](http://arxiv.org/abs/2505.00665)|null|
+|**2025-05-01**|**DeepCritic: Deliberate Critique with Large Language Models**|Wenkai Yang et.al.|[2505.00662](http://arxiv.org/abs/2505.00662)|null|
+|**2025-05-01**|**On the exponents of distribution of primes and smooth numbers**|Alexandru Pascadi et.al.|[2505.00653](http://arxiv.org/abs/2505.00653)|null|
+|**2025-05-01**|**Open-Source LLM-Driven Federated Transformer for Predictive IoV Management**|Yazan Otoum et.al.|[2505.00651](http://arxiv.org/abs/2505.00651)|null|
+|**2025-05-01**|**Visual Trajectory Prediction of Vessels for Inland Navigation**|Alexander Puzicha et.al.|[2505.00599](http://arxiv.org/abs/2505.00599)|null|
+|**2025-05-01**|**AI-Driven High-Resolution Cell Segmentation and Quantitative Analysis**|Shuang Zhang et.al.|[2505.00578](http://arxiv.org/abs/2505.00578)|null|
+|**2025-05-01**|**From Requirements to Test Cases: An NLP-Based Approach for High-Performance ECU Test Case Automation**|Nikitha Medeshetty et.al.|[2505.00547](http://arxiv.org/abs/2505.00547)|null|
+|**2025-05-01**|**InterLoc: LiDAR-based Intersection Localization using Road Segmentation with Automated Evaluation Method**|Nguyen Hoang Khoi Tran et.al.|[2505.00512](http://arxiv.org/abs/2505.00512)|null|
 |**2025-04-29**|**ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**|Ziqing Fan et.al.|[2504.20930](http://arxiv.org/abs/2504.20930)|null|
 |**2025-04-29**|**Modeling AI-Human Collaboration as a Multi-Agent Adaptation**|Prothit Sen et.al.|[2504.20903](http://arxiv.org/abs/2504.20903)|**[link](https://github.com/saimihirj/NKC-Multi-Agent-Models)**|
 |**2025-04-29**|**Evaluating Generative Models for Tabular Data: Novel Metrics and Benchmarking**|Dayananda Herurkar et.al.|[2504.20900](http://arxiv.org/abs/2504.20900)|null|
