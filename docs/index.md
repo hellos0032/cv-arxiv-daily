@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.07
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/abs/2505.04623)|null|
+|**2025-05-07**|**Likelihood-Free Adaptive Bayesian Inference via Nonparametric Distribution Matching**|Wenhui Sophia Lu et.al.|[2505.04603](http://arxiv.org/abs/2505.04603)|null|
+|**2025-05-07**|**TrajEvo: Designing Trajectory Prediction Heuristics via LLM-driven Evolution**|Zhikai Zhao et.al.|[2505.04480](http://arxiv.org/abs/2505.04480)|null|
+|**2025-05-07**|**Spectral and Temporal Denoising for Differentially Private Optimization**|Hyeju Shin et.al.|[2505.04468](http://arxiv.org/abs/2505.04468)|null|
+|**2025-05-07**|**Towards Initialization-Agnostic Clustering with Iterative Adaptive Resonance Theory**|Xiaozheng Qu et.al.|[2505.04440](http://arxiv.org/abs/2505.04440)|null|
+|**2025-05-07**|**A Heuristic-Integrated DRL Approach for Phase Optimization in Large-Scale RISs**|Wei Wang et.al.|[2505.04401](http://arxiv.org/abs/2505.04401)|null|
+|**2025-05-07**|**A refined $q$ -analogue of some congruences of Van Hamme**|Chen Wang et.al.|[2505.04395](http://arxiv.org/abs/2505.04395)|null|
+|**2025-05-07**|**Large Deviations and the Peano Phenomenon in Stochastic Differential Equations with Homogeneous Drift**|Paola Bermolen et.al.|[2505.04377](http://arxiv.org/abs/2505.04377)|null|
+|**2025-05-07**|**Yield and Buckling Stress Limits in Topology Optimization of Multiscale Structures**|Christoffer Fyllgraf Christensen et.al.|[2505.04353](http://arxiv.org/abs/2505.04353)|null|
+|**2025-05-07**|**Hyperbolic Fuzzy $C$ -Means with Adaptive Weight-based Filtering for Clustering in Non-Euclidean Spaces**|Swagato Das et.al.|[2505.04335](http://arxiv.org/abs/2505.04335)|null|
 |**2025-05-05**|**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**|Lu Ling et.al.|[2505.02836](http://arxiv.org/abs/2505.02836)|null|
 |**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835](http://arxiv.org/abs/2505.02835)|null|
 |**2025-05-05**|**Generating HomeAssistant Automations Using an LLM-based Chatbot**|Mathyas Giudici et.al.|[2505.02802](http://arxiv.org/abs/2505.02802)|null|
