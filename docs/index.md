@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.15
+## Updated on 2025.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Depth Anything with Any Prior**|Zehan Wang et.al.|[2505.10565](http://arxiv.org/abs/2505.10565)|null|
+|**2025-05-15**|**Efficient Uncertainty Propagation in Bayesian Two-Step Procedures**|Svenja Jedhoff et.al.|[2505.10510](http://arxiv.org/abs/2505.10510)|null|
+|**2025-05-15**|**Campus AI vs Commercial AI: A Late-Breaking Study on How LLM As-A-Service Customizations Shape Trust and Usage Patterns**|Leon Hannig et.al.|[2505.10490](http://arxiv.org/abs/2505.10490)|null|
+|**2025-05-15**|**From Persistence to Resilience: New Betti Numbers for Analyzing Robustness in Simplicial Complex Networks**|Pablo Hernández-García et.al.|[2505.10467](http://arxiv.org/abs/2505.10467)|null|
+|**2025-05-15**|**Büchi-Elgot-Trakhtenbrot Theorem for Higher-Dimensional Automata**|Amazigh Amrane et.al.|[2505.10461](http://arxiv.org/abs/2505.10461)|null|
+|**2025-05-15**|**Hierarchical Document Refinement for Long-context Retrieval-augmented Generation**|Jiajie Jin et.al.|[2505.10413](http://arxiv.org/abs/2505.10413)|**[link](https://github.com/ignorejjj/longrefiner)**|
+|**2025-05-15**|**Asynchronous Decentralized SGD under Non-Convexity: A Block-Coordinate Descent Framework**|Yijie Zhou et.al.|[2505.10322](http://arxiv.org/abs/2505.10322)|null|
+|**2025-05-15**|**An Algorithm for the Leading Monomials of a Minimal Groebner Basis of Generic Sequences**|Kosuke Sakata et.al.|[2505.10246](http://arxiv.org/abs/2505.10246)|null|
+|**2025-05-15**|**Entanglement generation and dynamical equilibrium within de Broglie Bohm theory**|Mustafa Kemal Döner et.al.|[2505.10221](http://arxiv.org/abs/2505.10221)|null|
+|**2025-05-15**|**Constraining Dirty Black Holes and pseudo-complex General Relativity with the Gravitational Waves Transient Catalog 3.0**|Yehu I. Maimon et.al.|[2505.10199](http://arxiv.org/abs/2505.10199)|null|
 |**2025-05-13**|**Advancing Food Nutrition Estimation via Visual-Ingredient Feature Fusion**|Huiyan Qi et.al.|[2505.08747](http://arxiv.org/abs/2505.08747)|null|
 |**2025-05-13**|**A Social Robot with Inner Speech for Dietary Guidance**|Valerio Belcamino et.al.|[2505.08664](http://arxiv.org/abs/2505.08664)|null|
 |**2025-05-13**|**DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting**|Holly Dinkel et.al.|[2505.08644](http://arxiv.org/abs/2505.08644)|null|
