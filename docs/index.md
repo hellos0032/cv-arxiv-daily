@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.19
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**KinTwin: Imitation Learning with Torque and Muscle Driven Biomechanical Models Enables Precise Replication of Able-Bodied and Impaired Movement from Markerless Motion Capture**|R. James Cotton et.al.|[2505.13436](http://arxiv.org/abs/2505.13436)|null|
+|**2025-05-19**|**Gluon: Making Muon & Scion Great Again! (Bridging Theory and Practice of LMO-based Optimizers for LLMs)**|Artem Riabinin et.al.|[2505.13416](http://arxiv.org/abs/2505.13416)|null|
+|**2025-05-19**|**Detect and Correct: A Selective Noise Correction Method for Learning with Noisy Labels**|Yuval Grinberg et.al.|[2505.13342](http://arxiv.org/abs/2505.13342)|null|
+|**2025-05-20**|**Rank, Chunk and Expand: Lineage-Oriented Reasoning for Taxonomy Expansion**|Sahil Mishra et.al.|[2505.13282](http://arxiv.org/abs/2505.13282)|null|
+|**2025-05-20**|**Event-Driven Dynamic Scene Depth Completion**|Zhiqiang Yan et.al.|[2505.13279](http://arxiv.org/abs/2505.13279)|null|
+|**2025-05-19**|**PARF: An Adaptive Abstraction-Strategy Tuner for Static Analysis**|Zhongyi Wang et.al.|[2505.13229](http://arxiv.org/abs/2505.13229)|null|
+|**2025-05-19**|**Quantum confinement and carbon nanodots: A conceptual view for the origin of diffuse interstellar bands**|A. P. Jones et.al.|[2505.13209](http://arxiv.org/abs/2505.13209)|null|
+|**2025-05-19**|**Abstract zip data**|Christopher Lang et.al.|[2505.13203](http://arxiv.org/abs/2505.13203)|null|
+|**2025-05-19**|**Higher fidelity perceptual image and video compression with a latent conditioned residual denoising diffusion model**|Jonas Brenig et.al.|[2505.13152](http://arxiv.org/abs/2505.13152)|**[link](https://github.com/jbrenig/rescdc)**|
+|**2025-05-19**|**Zero-Shot Iterative Formalization and Planning in Partially Observable Environments**|Liancheng Gong et.al.|[2505.13126](http://arxiv.org/abs/2505.13126)|**[link](https://github.com/zharry29/pddlego-plus)**|
 |**2025-05-15**|**Depth Anything with Any Prior**|Zehan Wang et.al.|[2505.10565](http://arxiv.org/abs/2505.10565)|null|
 |**2025-05-15**|**Efficient Uncertainty Propagation in Bayesian Two-Step Procedures**|Svenja Jedhoff et.al.|[2505.10510](http://arxiv.org/abs/2505.10510)|null|
 |**2025-05-15**|**Campus AI vs Commercial AI: A Late-Breaking Study on How LLM As-A-Service Customizations Shape Trust and Usage Patterns**|Leon Hannig et.al.|[2505.10490](http://arxiv.org/abs/2505.10490)|null|
