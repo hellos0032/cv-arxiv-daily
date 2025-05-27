@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.25
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Leveraging KANs for Expedient Training of Multichannel MLPs via Preconditioning and Geometric Refinement**|Jonas A. Actor et.al.|[2505.18131](http://arxiv.org/abs/2505.18131)|null|
+|**2025-05-23**|**Bidirectional Knowledge Distillation for Enhancing Sequential Recommendation with Large Language Models**|Jiongran Wu et.al.|[2505.18120](http://arxiv.org/abs/2505.18120)|null|
+|**2025-05-23**|**Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL**|Joey Hong et.al.|[2505.18098](http://arxiv.org/abs/2505.18098)|null|
+|**2025-05-23**|**An Iterative Framework for Generative Backmapping of Coarse Grained Proteins**|Georgios Kementzidis et.al.|[2505.18082](http://arxiv.org/abs/2505.18082)|null|
+|**2025-05-23**|**Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding**|Xiaoyi Zhang et.al.|[2505.18079](http://arxiv.org/abs/2505.18079)|null|
+|**2025-05-23**|**RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2505.18047](http://arxiv.org/abs/2505.18047)|null|
+|**2025-05-23**|**Linear Mixture Distributionally Robust Markov Decision Processes**|Zhishuai Liu et.al.|[2505.18044](http://arxiv.org/abs/2505.18044)|null|
+|**2025-05-23**|**A Wavelet-based Stereo Matching Framework for Solving Frequency Convergence Inconsistency**|Xiaobao Wei et.al.|[2505.18024](http://arxiv.org/abs/2505.18024)|null|
+|**2025-05-23**|**Rethinking Contrastive Learning in Graph Anomaly Detection: A Clean-View Perspective**|Di Jin et.al.|[2505.18002](http://arxiv.org/abs/2505.18002)|null|
+|**2025-05-23**|**Segment Anyword: Mask Prompt Inversion for Open-Set Grounded Segmentation**|Zhihua Liu et.al.|[2505.17994](http://arxiv.org/abs/2505.17994)|null|
 |**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004](http://arxiv.org/abs/2505.17004)|null|
 |**2025-05-22**|**Latent Principle Discovery for Language Model Self-Improvement**|Keshav Ramji et.al.|[2505.16927](http://arxiv.org/abs/2505.16927)|null|
 |**2025-05-22**|**CAIN: Hijacking LLM-Humans Conversations via a Two-Stage Malicious System Prompt Generation and Refining Framework**|Viet Pham et.al.|[2505.16888](http://arxiv.org/abs/2505.16888)|null|
