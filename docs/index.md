@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.27
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis**|Yipengjing Sun et.al.|[2505.21502](http://arxiv.org/abs/2505.21502)|null|
+|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|null|
+|**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494](http://arxiv.org/abs/2505.21494)|null|
+|**2025-05-27**|**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation**|Omer Dahary et.al.|[2505.21488](http://arxiv.org/abs/2505.21488)|null|
+|**2025-05-27**|**DetailFlow: 1D Coarse-to-Fine Autoregressive Image Generation via Next-Detail Prediction**|Yiheng Liu et.al.|[2505.21473](http://arxiv.org/abs/2505.21473)|null|
+|**2025-05-27**|**Optimal Approximations for the Requirement Cut Problem on Sparse Graph Classes**|Nadym Mallek et.al.|[2505.21433](http://arxiv.org/abs/2505.21433)|null|
+|**2025-05-27**|**Policy Induction: Predicting Startup Success via Explainable Memory-Augmented In-Context Learning**|Xianling Mu et.al.|[2505.21427](http://arxiv.org/abs/2505.21427)|null|
+|**2025-05-27**|**Efficient production of sodium Bose-Einstein condensates in a hybrid trap**|Yanda Geng et.al.|[2505.21415](http://arxiv.org/abs/2505.21415)|null|
+|**2025-05-27**|**Addition to "Structured random matrices and cyclic cumulants: A free probability approach"**|Denis Bernard et.al.|[2505.21376](http://arxiv.org/abs/2505.21376)|null|
+|**2025-05-27**|**YOLO-SPCI: Enhancing Remote Sensing Object Detection via Selective-Perspective-Class Integration**|Xinyuan Wang et.al.|[2505.21370](http://arxiv.org/abs/2505.21370)|null|
 |**2025-05-23**|**Leveraging KANs for Expedient Training of Multichannel MLPs via Preconditioning and Geometric Refinement**|Jonas A. Actor et.al.|[2505.18131](http://arxiv.org/abs/2505.18131)|null|
 |**2025-05-23**|**Bidirectional Knowledge Distillation for Enhancing Sequential Recommendation with Large Language Models**|Jiongran Wu et.al.|[2505.18120](http://arxiv.org/abs/2505.18120)|null|
 |**2025-05-23**|**Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL**|Joey Hong et.al.|[2505.18098](http://arxiv.org/abs/2505.18098)|null|
