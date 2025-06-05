@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.03
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**|Zhengyao Lv et.al.|[2506.03123](http://arxiv.org/abs/2506.03123)|null|
+|**2025-06-03**|**AUTOCIRCUIT-RL: Reinforcement Learning-Driven LLM for Automated Circuit Topology Generation**|Prashanth Vijayaraghavan et.al.|[2506.03122](http://arxiv.org/abs/2506.03122)|null|
+|**2025-06-03**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106](http://arxiv.org/abs/2506.03106)|null|
+|**2025-06-03**|**DyTact: Capturing Dynamic Contacts in Hand-Object Manipulation**|Xiaoyan Cong et.al.|[2506.03103](http://arxiv.org/abs/2506.03103)|null|
+|**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067](http://arxiv.org/abs/2506.03067)|null|
+|**2025-06-03**|**Hybrid deep learning and iterative methods for accelerated solutions of viscous incompressible flow**|Heming Bai et.al.|[2506.03016](http://arxiv.org/abs/2506.03016)|null|
+|**2025-06-03**|**A Multi-Agent Framework for Mitigating Dialect Biases in Privacy Policy Question-Answering Systems**|Đorđe Klisura et.al.|[2506.02998](http://arxiv.org/abs/2506.02998)|null|
+|**2025-06-03**|**Mitigating Manipulation and Enhancing Persuasion: A Reflective Multi-Agent Approach for Legal Argument Generation**|Li Zhang et.al.|[2506.02992](http://arxiv.org/abs/2506.02992)|null|
+|**2025-06-03**|**On 102-avoiding inversion sequences**|JiSun Huh et.al.|[2506.02985](http://arxiv.org/abs/2506.02985)|null|
+|**2025-06-03**|**Expanding before Inferring: Enhancing Factuality in Large Language Models through Premature Layers Interpolation**|Dingwei Chen et.al.|[2506.02973](http://arxiv.org/abs/2506.02973)|null|
 |**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877](http://arxiv.org/abs/2505.24877)|null|
 |**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875](http://arxiv.org/abs/2505.24875)|null|
 |**2025-05-30**|**Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning**|Shuyao Xu et.al.|[2505.24850](http://arxiv.org/abs/2505.24850)|null|
