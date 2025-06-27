@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.25
+## Updated on 2025.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**IPFormer: Visual 3D Panoptic Scene Completion with Context-Adaptive Instance Proposals**|Markus Gross et.al.|[2506.20671](http://arxiv.org/abs/2506.20671)|null|
+|**2025-06-25**|**Sequential Quantum Computing**|Sebastián V. Romero et.al.|[2506.20655](http://arxiv.org/abs/2506.20655)|null|
+|**2025-06-25**|**Consequences of Non-Gaussian Instrumental Noise in Perturbed Nulling Interferometers**|Felix A. Dannert et.al.|[2506.20653](http://arxiv.org/abs/2506.20653)|null|
+|**2025-06-25**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/abs/2506.20639)|null|
+|**2025-06-25**|**SFNet: Fusion of Spatial and Frequency-Domain Features for Remote Sensing Image Forgery Detection**|Ji Qi et.al.|[2506.20599](http://arxiv.org/abs/2506.20599)|null|
+|**2025-06-25**|**CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency**|Renyi Zhong et.al.|[2506.20558](http://arxiv.org/abs/2506.20558)|null|
+|**2025-06-25**|**EANS: Reducing Energy Consumption for UAV with an Environmental Adaptive Navigation Strategy**|Tian Liu et.al.|[2506.20485](http://arxiv.org/abs/2506.20485)|null|
+|**2025-06-25**|**Méthode de quadrature pour les PINNs fondée théoriquement sur la hessienne des résiduels**|Antoine Caradot et.al.|[2506.20441](http://arxiv.org/abs/2506.20441)|null|
+|**2025-06-25**|**Biomed-Enriched: A Biomedical Dataset Enriched with LLMs for Pretraining and Extracting Rare and Hidden Content**|Rian Touchent et.al.|[2506.20331](http://arxiv.org/abs/2506.20331)|null|
+|**2025-06-25**|**From Codicology to Code: A Comparative Study of Transformer and YOLO-based Detectors for Layout Analysis in Historical Documents**|Sergio Torres Aguilar et.al.|[2506.20326](http://arxiv.org/abs/2506.20326)|null|
 |**2025-06-23**|**Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models**|Kiymet Akdemir et.al.|[2506.18900](http://arxiv.org/abs/2506.18900)|null|
 |**2025-06-23**|**Steering Conceptual Bias via Transformer Latent-Subspace Activation**|Vansh Sharma et.al.|[2506.18887](http://arxiv.org/abs/2506.18887)|null|
 |**2025-06-23**|**RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base**|Kuanning Wang et.al.|[2506.18856](http://arxiv.org/abs/2506.18856)|null|
