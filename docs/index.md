@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Studying Protoplanets and Protoplanetary Disks with the Habitable Worlds Observatory**|Bin B. Ren et.al.|[2506.24129](http://arxiv.org/abs/2506.24129)|null|
+|**2025-06-30**|**FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation**|Jiacheng Cui et.al.|[2506.24125](http://arxiv.org/abs/2506.24125)|null|
+|**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
+|**2025-06-30**|**A Refined Kernel for $d$ -Hitting Set**|Yuxi Liu et.al.|[2506.24114](http://arxiv.org/abs/2506.24114)|null|
+|**2025-06-30**|**Faster Diffusion Models via Higher-Order Approximation**|Gen Li et.al.|[2506.24042](http://arxiv.org/abs/2506.24042)|null|
+|**2025-06-30**|**Foundation Models for Zero-Shot Segmentation of Scientific Images without AI-Ready Data**|Shubhabrata Mukherjee et.al.|[2506.24039](http://arxiv.org/abs/2506.24039)|null|
+|**2025-06-30**|**ShapeKit**|Junqi Liu et.al.|[2506.24003](http://arxiv.org/abs/2506.24003)|null|
+|**2025-06-30**|**Exploring the Wolf Approach to Constraining NIR Extinction Laws in the Corona Australis Molecular Cloud**|Botao Jiang et.al.|[2506.23915](http://arxiv.org/abs/2506.23915)|null|
+|**2025-07-01**|**PriOr-Flow: Enhancing Primitive Panoramic Optical Flow with Orthogonal View**|Longliang Liu et.al.|[2506.23897](http://arxiv.org/abs/2506.23897)|null|
+|**2025-06-30**|**Advancing Multi-Step Mathematical Reasoning in Large Language Models through Multi-Layered Self-Reflection with Auto-Prompting**|André de Souza Loureiro et.al.|[2506.23888](http://arxiv.org/abs/2506.23888)|null|
 |**2025-06-27**|**Is Lindblad for me?**|Martino Stefanini et.al.|[2506.22436](http://arxiv.org/abs/2506.22436)|null|
 |**2025-06-27**|**Estimating causal distances with non-causal ones**|Beatrice Acciaio et.al.|[2506.22421](http://arxiv.org/abs/2506.22421)|null|
 |**2025-06-27**|**Refining Czech GEC: Insights from a Multi-Experiment Approach**|Petr Pechman et.al.|[2506.22402](http://arxiv.org/abs/2506.22402)|null|
