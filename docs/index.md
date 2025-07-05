@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.03
+## Updated on 2025.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Subtyping in DHOL -- Extended preprint**|Colin Rothgang et.al.|[2507.02855](http://arxiv.org/abs/2507.02855)|null|
+|**2025-07-03**|**Proof of a magnificent conjecture**|M. Kool et.al.|[2507.02852](http://arxiv.org/abs/2507.02852)|null|
+|**2025-07-03**|**Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection**|Ziqi Miao et.al.|[2507.02844](http://arxiv.org/abs/2507.02844)|null|
+|**2025-07-03**|**ExPO: Unlocking Hard Reasoning with Self-Explanation-Guided Reinforcement Learning**|Ruiyang Zhou et.al.|[2507.02834](http://arxiv.org/abs/2507.02834)|null|
+|**2025-07-03**|**Genetic Features for Drug Responses in Cancer -- Investigating an Ensemble-Feature-Selection Approach**|Johannes Schlüter et.al.|[2507.02818](http://arxiv.org/abs/2507.02818)|null|
+|**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792](http://arxiv.org/abs/2507.02792)|null|
+|**2025-07-03**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773](http://arxiv.org/abs/2507.02773)|null|
+|**2025-07-03**|**RIS-Aided Cooperative ISAC Networks for Structural Health Monitoring**|Jie Yang et.al.|[2507.02731](http://arxiv.org/abs/2507.02731)|null|
+|**2025-07-03**|**Quantifying Classifier Utility under Local Differential Privacy**|Ye Zheng et.al.|[2507.02727](http://arxiv.org/abs/2507.02727)|null|
+|**2025-07-03**|**High-Order Deep Meta-Learning with Category-Theoretic Interpretation**|David H. Mguni et.al.|[2507.02634](http://arxiv.org/abs/2507.02634)|null|
 |**2025-06-30**|**Studying Protoplanets and Protoplanetary Disks with the Habitable Worlds Observatory**|Bin B. Ren et.al.|[2506.24129](http://arxiv.org/abs/2506.24129)|null|
 |**2025-06-30**|**FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation**|Jiacheng Cui et.al.|[2506.24125](http://arxiv.org/abs/2506.24125)|null|
 |**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
