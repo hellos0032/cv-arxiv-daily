@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.13
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**The Effective Field Theory of Large Scale Structure for Mixed Dark Matter Scenarios**|Francesco Verdiani et.al.|[2507.08792](http://arxiv.org/abs/2507.08792)|null|
+|**2025-07-11**|**KG-Attention: Knowledge Graph-Guided Attention at Test-Time via Bidirectional Information Aggregation**|Songlin Zhai et.al.|[2507.08704](http://arxiv.org/abs/2507.08704)|null|
+|**2025-07-11**|**ONION: A Multi-Layered Framework for Participatory ER Design**|Viktoriia Makovska et.al.|[2507.08702](http://arxiv.org/abs/2507.08702)|null|
+|**2025-07-11**|**To buy or not to buy: deterministic rent-or-buy problems on node-weighted graphs**|Sander Borst et.al.|[2507.08698](http://arxiv.org/abs/2507.08698)|null|
+|**2025-07-11**|**Precision spectral measurements of Chromium and Titanium from 10 to 250 GeV $/n$ and sub-Iron to Iron ratio with the Calorimetric Electron Telescope on the ISS**|O. Adriani et.al.|[2507.08643](http://arxiv.org/abs/2507.08643)|null|
+|**2025-07-11**|**An improved version of a spectral inequality by Payne**|Paolo Acampora et.al.|[2507.08631](http://arxiv.org/abs/2507.08631)|null|
+|**2025-07-11**|**Agentic Large Language Models for Conceptual Systems Engineering and Design**|Soheyl Massoudi et.al.|[2507.08619](http://arxiv.org/abs/2507.08619)|null|
+|**2025-07-11**|**Generating Proto-Personas through Prompt Engineering: A Case Study on Efficiency, Effectiveness and Empathy**|Fernando Ayach et.al.|[2507.08594](http://arxiv.org/abs/2507.08594)|null|
+|**2025-07-11**|**FreeAudio: Training-Free Timing Planning for Controllable Long-Form Text-to-Audio Generation**|Yuxuan Jiang et.al.|[2507.08557](http://arxiv.org/abs/2507.08557)|null|
+|**2025-07-11**|**Disentangling Instance and Scene Contexts for 3D Semantic Scene Completion**|Enyu Liu et.al.|[2507.08555](http://arxiv.org/abs/2507.08555)|null|
 |**2025-07-10**|**PyVision: Agentic Vision with Dynamic Tooling**|Shitian Zhao et.al.|[2507.07998](http://arxiv.org/abs/2507.07998)|null|
 |**2025-07-10**|**Spectral networks for polynomial cubic differentials**|Omar Kidwai et.al.|[2507.07971](http://arxiv.org/abs/2507.07971)|null|
 |**2025-07-10**|**The $\mathcal{D}$ -Geometric Hilbert Scheme -- Part I: Involutivity and Stability**|Jacob Kryczka et.al.|[2507.07937](http://arxiv.org/abs/2507.07937)|null|
