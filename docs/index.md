@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.17
+## Updated on 2025.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4148,6 +4148,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Testing halo models for constraining astrophysical feedback with multi-probe modeling: I. 3D Power spectra and mass fractions**|Pranjal R. S. et.al.|[2507.13317](http://arxiv.org/abs/2507.13317)|null|
+|**2025-07-17**|**Revisiting Reliability in the Reasoning-based Pose Estimation Benchmark**|Junsu Kim et.al.|[2507.13314](http://arxiv.org/abs/2507.13314)|null|
+|**2025-07-17**|**$S^2M^2$ : Scalable Stereo Matching Model for Reliable Depth Estimation**|Junhong Min et.al.|[2507.13229](http://arxiv.org/abs/2507.13229)|null|
+|**2025-07-17**|**From Barcode Entropy to Metric Entropy**|Erman Cineli et.al.|[2507.13215](http://arxiv.org/abs/2507.13215)|null|
+|**2025-07-17**|**Label-Consistent Dataset Distillation with Detector-Guided Refinement**|Yawen Zou et.al.|[2507.13074](http://arxiv.org/abs/2507.13074)|null|
+|**2025-07-17**|**Unlocking the Hodge Conjecture: A Spectral Fingerprint Approach via Gauss-Manin Derivatives**|Bita Hajebi et.al.|[2507.13064](http://arxiv.org/abs/2507.13064)|null|
+|**2025-07-17**|**Advancing Complex Wide-Area Scene Understanding with Hierarchical Coresets Selection**|Jingyao Wang et.al.|[2507.13061](http://arxiv.org/abs/2507.13061)|null|
+|**2025-07-17**|**Resurrect Mask AutoRegressive Modeling for Efficient and Scalable Image Generation**|Yi Xin et.al.|[2507.13032](http://arxiv.org/abs/2507.13032)|null|
+|**2025-07-17**|**Measuring CEX-DEX Extracted Value and Searcher Profitability: The Darkest of the MEV Dark Forest**|Fei Wu et.al.|[2507.13023](http://arxiv.org/abs/2507.13023)|null|
+|**2025-07-17**|**Adaptive feature capture method for solving partial differential equations with low regularity solutions**|Yangtao Deng et.al.|[2507.12941](http://arxiv.org/abs/2507.12941)|null|
 |**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
 |**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
 |**2025-07-15**|**COLIBRI Fuzzy Model: Color Linguistic-Based Representation and Interpretation**|Pakizar Shamoi et.al.|[2507.11488](http://arxiv.org/abs/2507.11488)|null|
